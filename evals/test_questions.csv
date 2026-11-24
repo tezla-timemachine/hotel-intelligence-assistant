@@ -1,0 +1,26 @@
+qid,type,question,relevant_if,label_needed,notes
+Q01,visual,Show me the swimming pools,The photo shows a swimming pool,,Basic visual search
+Q02,visual,Find photos of hotel bathrooms,"The photo shows a bathroom: toilet, shower, bathtub or washbasin",,Basic visual search
+Q03,visual,Show the breakfast buffet,The photo shows a buffet counter or breakfast food laid out,,Basic visual search
+Q04,visual,Show the hotel lobby and reception,The photo shows a lobby or a reception desk,,Basic visual search
+Q05,visual,Find sea views from the hotel,The photo shows the sea,,View; many photos
+Q06,visual,Show bedrooms with a balcony,The photo shows a bedroom with a balcony or a door onto one,,Two things in one photo
+Q07,visual,Show the hotel restaurant dining area,The photo shows a dining area with tables,,Basic visual search
+Q08,visual,Show the hotel building from outside,The photo shows the outside of a hotel building,,Basic visual search
+Q09,brief,Show me room images related to negative reviews.,The photo shows a hotel room (bedroom or bathroom),Room_Negative,Brief example
+Q10,brief,Find hotel facilities associated with positive feedback.,"The photo shows a hotel facility: pool, gym, spa, garden, play area, bar or similar",Facilities_Positive,Brief example
+Q11,brief,Show images related to complaints about public areas.,"The photo shows a public area: lobby, corridor, garden, entrance, building, terrace",Public_area_Negative,Brief example
+Q12,brief,What are customers saying about the rooms shown in these images?,The photo shows a hotel room (bedroom or bathroom),Room_any,Brief example; also an answer test
+Q13,brief,Show room images associated with negative feedback.,The photo shows a hotel room (bedroom or bathroom),Room_Negative,Brief example
+Q14,brief,Find images related to good hotel facilities.,"The photo shows a hotel facility: pool, gym, spa, garden, play area, bar or similar",Facilities_Positive,Brief example
+Q15,brief,Show public areas mentioned in negative reviews.,"The photo shows a public area: lobby, corridor, garden, entrance, building, terrace",Public_area_Negative,Brief example
+Q16,brief,Find images connected with positive comments about food.,The photo shows food or drink,Food_Positive,Brief example
+Q17,detail,Show dirty or worn rooms from negative reviews,"The photo shows a room with visible dirt, stains, damage or wear",Room_Negative,Hard: needs visual detail
+Q18,detail,Show the food guests complained about,The photo shows food or drink,Food_Negative,Topic and sentiment
+Q19,detail,Show pools mentioned in positive reviews,The photo shows a swimming pool,Facilities_Positive,Topic and sentiment
+Q20,detail,Show bathrooms from negative reviews,"The photo shows a bathroom: toilet, shower, bathtub or washbasin",Room_Negative,Sub-part of a topic
+Q21,detail,Find views that guests liked,"The photo shows a view: sea, city, mountains or landscape",any_Positive,No topic word: sentiment only
+Q22,detail,Show breakfast photos from negative reviews,The photo shows breakfast food or a buffet,Food_Negative,Topic and sentiment
+Q23,edge,What do guests dislike most?,The photo shows the thing its review complains about,any_Negative,Broad question
+Q24,edge,Show the gym equipment,The photo shows gym or fitness equipment,,No gym photos found in the descriptions: tests honest 'not enough evidence'
+Q25,edge,Show spa treatment rooms guests complained about,The photo shows a spa or massage room,Facilities_Negative,Probably no evidence: tests honest answers

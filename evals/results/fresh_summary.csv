@@ -1,0 +1,2 @@
+run,p_at_5,p_at_10,first_result,label_accuracy,median_seconds,slowest_seconds
+image-siglip,0.72,0.58,0.9,1.0,0.132,1.145

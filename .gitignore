@@ -1,0 +1,19 @@
+# Python environment and secrets: never published
+.venv/
+.env
+__pycache__/
+.DS_Store
+# The dataset is for research use only, with no open licence: images and reviews are never published (Phase 1)
+data/raw/
+data/selected/
+# The vector database holds the reviews and image links, so it stays local too
+data/chroma/
+data/inspection/*.jpg
+models/
+# Row-level evaluation outputs quote or paraphrase the reviews and describe the photos, so they stay local too
+evals/results/*answers*.json
+evals/results/*answer_checks.csv
+evals/results/judgements.csv
+evals/results/judge_disagreements.csv
+evals/results/*_incorrect.csv
+evals/results/failed/

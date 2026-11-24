@@ -1,0 +1,11 @@
+qid,type,question,relevant_if,label_needed,notes
+F01,visual,Show the hotel corridors and hallways,The photo shows a corridor or hallway,,Kept back until Phase 7
+F02,visual,Find beds with towels arranged on them,The photo shows a bed with towels folded or arranged on it,,Kept back until Phase 7
+F03,visual,Show rooftop bars and terraces,The photo shows a rooftop bar or terrace,,Kept back until Phase 7
+F04,detail,Show bathrooms guests complained about,"The photo shows a bathroom: toilet, shower, bathtub or washbasin",Room_Negative,Kept back until Phase 7
+F05,detail,Find breakfast photos from positive reviews,The photo shows breakfast food or a buffet,Food_Positive,Kept back until Phase 7
+F06,visual,Show children's pools or play areas,The photo shows a children's pool or play area,,Kept back until Phase 7; probably few
+F07,visual,Show the hotel at night,The photo was taken at night and shows the hotel or its grounds,,Kept back until Phase 7
+F08,detail,Show pools from negative reviews,The photo shows a swimming pool,Facilities_Negative,Kept back until Phase 7
+F09,visual,Find rooms with a city view,The photo shows a room with a city view through the window,,Kept back until Phase 7
+F10,edge,What do guests praise about the staff?,"The photo shows staff, a reception desk or a service the review praises",Service_Positive,Kept back until Phase 7; service isn't visible

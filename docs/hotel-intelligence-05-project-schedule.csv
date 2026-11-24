@@ -1,0 +1,14 @@
+id,phase,task,start,end,status,depends_on,covers
+T01,1 Understand,"Download, inspect and select ~500 images; fact sheet",2026-11-23,2026-11-23,Done,,"Step 1; D2, D3"
+T02,1 Understand,Translate the reviews (Decision B),2026-11-23,2026-11-23,Done,T01,Step 1; D4
+T03,1 Understand,"Documents 01-05, risk register (06), change log (10)",2026-11-23,2026-11-23,Done,T01,"01-06, 10"
+T04,2 Describe,Choose the description model; try 10 images; describe all,2026-11-23,2026-11-23,Done,T03,Step 2; Decision C
+T05,3 Embed,"Install CLIP, SigLIP, Chroma; embed; build the database",2026-11-23,2026-11-23,Done,T04,"Steps 3-4; D, E"
+T06,4 Search,"Search, labels in search, search by image",2026-11-23,2026-11-23,Done,T05,Step 5; Decision I
+T07,4 Search,Answers from evidence (RAG); evaluation plan (07),2026-11-23,2026-11-23,Done,T06,Step 6; 07; F
+T08,5 Measure,"Test questions, relevance judgements, P@K",2026-11-23,2026-11-24,Done,T07,Step 7; G
+T09,5 Measure,"Compare caption, CLIP and SigLIP search",2026-11-24,2026-11-24,Done,T08,Step 8
+T10,6 App,Failure analysis,2026-11-24,2026-11-24,Done,T09,Step 9
+T11,6 App,Streamlit app; UAT (08); privacy note; risks signed off,2026-11-24,2026-11-24,Done,T07,"Step 10; 06, 08; H"
+T12,7 Write up,Fresh test questions; case study (09); limitations,2026-11-24,2026-11-24,Done,T10 T11,09
+T13,7 Write up,"README, HANDOVER, annotated brief; GitHub",2026-11-24,2026-11-25,In progress,T12,Deliverables

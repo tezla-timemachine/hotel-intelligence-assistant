@@ -1,0 +1,1501 @@
+qid,run,rank,image_file,score,seconds,labels,topics_read,sentiment_read
+Q01,image-clip,1,image_22309_0.png,0.2994,0.087,Facilities#Positive; Public_area#Positive,Facilities,
+Q01,image-clip,2,image_22018_0.png,0.2923,0.087,Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Neutral,Facilities,
+Q01,image-clip,3,image_19752_0.png,0.2923,0.087,Room#Positive; Facilities#Positive; Service#Positive,Facilities,
+Q01,image-clip,4,image_9403_0.png,0.2923,0.087,Facilities#Positive; Public_area#Positive,Facilities,
+Q01,image-clip,5,image_22365_2.png,0.2861,0.087,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-clip,6,image_24120_0.png,0.2859,0.087,Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-clip,7,image_22405_0.png,0.2859,0.087,Location#Negative; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Neutral,Facilities,
+Q01,image-clip,8,image_22528_0.png,0.284,0.087,Room#Negative; Facilities#Positive; Service#Negative; Public_area#Positive,Facilities,
+Q01,image-clip,9,image_21228_0.png,0.2819,0.087,Food#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-clip,10,image_6233_0.png,0.2807,0.087,Location#Positive; Room#Neutral; Facilities#Negative; Public_area#Neutral,Facilities,
+Q01,image-siglip,1,image_22088_0.png,0.0933,0.078,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Facilities,
+Q01,image-siglip,2,image_2533_0.png,0.087,0.078,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-siglip,3,image_26607_2.png,0.0865,0.078,Location#Positive; Room#Neutral; Facilities#Negative; Public_area#Positive,Facilities,
+Q01,image-siglip,4,image_28128_2.png,0.0863,0.078,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,
+Q01,image-siglip,5,image_22400_1.png,0.0863,0.078,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-siglip,6,image_24120_0.png,0.0859,0.078,Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-siglip,7,image_6233_0.png,0.0854,0.078,Location#Positive; Room#Neutral; Facilities#Negative; Public_area#Neutral,Facilities,
+Q01,image-siglip,8,image_8011_2.png,0.0848,0.078,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-siglip,9,image_21228_0.png,0.0847,0.078,Food#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-siglip,10,image_6382_3.png,0.0845,0.078,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,caption-clip,1,image_24120_0.png,0.7347,0.093,Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,caption-clip,2,image_6382_1.png,0.7301,0.093,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,caption-clip,3,image_26299_0.png,0.7171,0.093,Facilities#Positive; Public_area#Positive,Facilities,
+Q01,caption-clip,4,image_21038_0.png,0.69,0.093,Location#Negative; Food#Neutral; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,caption-clip,5,image_22467_0.png,0.6798,0.093,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,caption-clip,6,image_22235_0.png,0.6769,0.093,Location#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,caption-clip,7,image_2533_0.png,0.6743,0.093,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,caption-clip,8,image_22214_0.png,0.6587,0.093,Facilities#Positive; Service#Positive; Public_area#Neutral,Facilities,
+Q01,caption-clip,9,image_22088_0.png,0.6544,0.093,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Facilities,
+Q01,caption-clip,10,image_8011_2.png,0.6519,0.093,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,caption-siglip,1,image_7838_2.png,0.6036,0.179,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Facilities,
+Q01,caption-siglip,2,image_6382_2.png,0.5882,0.179,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,caption-siglip,3,image_19852_0.png,0.5746,0.179,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Facilities,
+Q01,caption-siglip,4,image_22365_0.png,0.5451,0.179,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,
+Q01,caption-siglip,5,image_2533_2.png,0.5206,0.179,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,caption-siglip,6,image_19051_0.png,0.5126,0.179,Food#Positive; Room#Positive; Facilities#Neutral; Public_area#Neutral,Facilities,
+Q01,caption-siglip,7,image_22214_0.png,0.481,0.179,Facilities#Positive; Service#Positive; Public_area#Neutral,Facilities,
+Q01,caption-siglip,8,image_7913_0.png,0.4759,0.179,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,
+Q01,caption-siglip,9,image_7220_1.png,0.4731,0.179,Food#Negative; Facilities#Positive; Public_area#Neutral,Facilities,
+Q01,caption-siglip,10,image_27608_2.png,0.4517,0.179,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,
+Q01,keyword,1,image_5765_0.png,10.1068,0.042,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,
+Q01,keyword,2,image_5765_2.png,5.8339,0.042,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,
+Q01,keyword,3,image_22405_0.png,3.3125,0.042,Location#Negative; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Neutral,Facilities,
+Q01,keyword,4,image_22198_0.png,3.2671,0.042,Facilities#Positive; Service#Negative; Public_area#Positive,Facilities,
+Q01,keyword,5,image_22400_1.png,3.1906,0.042,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,keyword,6,image_27530_0.png,3.1906,0.042,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,keyword,7,image_9403_0.png,3.1694,0.042,Facilities#Positive; Public_area#Positive,Facilities,
+Q01,keyword,8,image_26870_1.png,3.1176,0.042,Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,keyword,9,image_22528_0.png,3.0973,0.042,Room#Negative; Facilities#Positive; Service#Negative; Public_area#Positive,Facilities,
+Q01,keyword,10,image_20374_1.png,2.9791,0.042,Food#Positive; Facilities#Negative; Public_area#Positive,Facilities,
+Q01,image-siglip-nolabels,1,image_22088_0.png,0.0933,0.053,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Facilities,
+Q01,image-siglip-nolabels,2,image_2533_0.png,0.087,0.053,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-siglip-nolabels,3,image_26607_2.png,0.0865,0.053,Location#Positive; Room#Neutral; Facilities#Negative; Public_area#Positive,Facilities,
+Q01,image-siglip-nolabels,4,image_28128_2.png,0.0863,0.053,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,
+Q01,image-siglip-nolabels,5,image_22400_1.png,0.0863,0.053,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-siglip-nolabels,6,image_24120_0.png,0.0859,0.053,Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-siglip-nolabels,7,image_6233_0.png,0.0854,0.053,Location#Positive; Room#Neutral; Facilities#Negative; Public_area#Neutral,Facilities,
+Q01,image-siglip-nolabels,8,image_8011_2.png,0.0848,0.053,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-siglip-nolabels,9,image_21228_0.png,0.0847,0.053,Food#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q01,image-siglip-nolabels,10,image_6382_3.png,0.0845,0.053,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q02,image-clip,1,image_28119_3.png,0.2971,0.039,Room#Positive; Service#Positive,Room,
+Q02,image-clip,2,image_4800_1.png,0.2964,0.039,Room#Negative,Room,
+Q02,image-clip,3,image_10361_1.png,0.2916,0.039,Room#Neutral; Service#Negative,Room,
+Q02,image-clip,4,image_9753_0.png,0.2913,0.039,Room#Negative,Room,
+Q02,image-clip,5,image_23183_1.png,0.2904,0.039,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Room,
+Q02,image-clip,6,image_7913_1.png,0.29,0.039,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q02,image-clip,7,image_11757_1.png,0.2875,0.039,Room#Negative; Service#Negative,Room,
+Q02,image-clip,8,image_29480_2.png,0.2871,0.039,Location#Positive; Room#Positive; Service#Positive; Public_area#Positive,Room,
+Q02,image-clip,9,image_7913_0.png,0.2859,0.039,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q02,image-clip,10,image_3821_0.png,0.2837,0.039,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q02,image-siglip,1,image_29480_2.png,0.1023,0.066,Location#Positive; Room#Positive; Service#Positive; Public_area#Positive,Room,
+Q02,image-siglip,2,image_7913_0.png,0.0971,0.066,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q02,image-siglip,3,image_23183_1.png,0.0969,0.066,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Room,
+Q02,image-siglip,4,image_9832_3.png,0.096,0.066,Location#Positive; Room#Positive; Public_area#Positive,Room,
+Q02,image-siglip,5,image_28119_3.png,0.0914,0.066,Room#Positive; Service#Positive,Room,
+Q02,image-siglip,6,image_10361_1.png,0.0891,0.066,Room#Neutral; Service#Negative,Room,
+Q02,image-siglip,7,image_7838_2.png,0.0888,0.066,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Room,
+Q02,image-siglip,8,image_4800_1.png,0.0802,0.066,Room#Negative,Room,
+Q02,image-siglip,9,image_24608_0.png,0.0786,0.066,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Room,
+Q02,image-siglip,10,image_10049_2.png,0.0781,0.066,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,
+Q02,caption-clip,1,image_7913_0.png,0.7776,0.036,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q02,caption-clip,2,image_20969_0.png,0.7523,0.036,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,
+Q02,caption-clip,3,image_29307_0.png,0.7486,0.036,Room#Positive,Room,
+Q02,caption-clip,4,image_19852_1.png,0.729,0.036,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Room,
+Q02,caption-clip,5,image_22467_0.png,0.7125,0.036,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q02,caption-clip,6,image_10938_0.png,0.7121,0.036,Room#Negative; Service#Negative,Room,
+Q02,caption-clip,7,image_9832_0.png,0.6979,0.036,Location#Positive; Room#Positive; Public_area#Positive,Room,
+Q02,caption-clip,8,image_1702_1.png,0.6945,0.036,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,Room,
+Q02,caption-clip,9,image_28359_2.png,0.6868,0.036,Room#Negative,Room,
+Q02,caption-clip,10,image_25839_0.png,0.6866,0.036,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive,Room,
+Q02,caption-siglip,1,image_7838_2.png,0.6843,0.063,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Room,
+Q02,caption-siglip,2,image_7913_0.png,0.6521,0.063,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q02,caption-siglip,3,image_2533_2.png,0.5174,0.063,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q02,caption-siglip,4,image_19852_0.png,0.515,0.063,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Room,
+Q02,caption-siglip,5,image_3035_1.png,0.5059,0.063,Room#Negative; Service#Negative,Room,
+Q02,caption-siglip,6,image_28844_1.png,0.4995,0.063,Room#Negative; Public_area#Positive,Room,
+Q02,caption-siglip,7,image_19051_0.png,0.456,0.063,Food#Positive; Room#Positive; Facilities#Neutral; Public_area#Neutral,Room,
+Q02,caption-siglip,8,image_28844_0.png,0.4554,0.063,Room#Negative; Public_area#Positive,Room,
+Q02,caption-siglip,9,image_22365_0.png,0.4549,0.063,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive; Public_area#Positive,Room,
+Q02,caption-siglip,10,image_22467_0.png,0.4245,0.063,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q02,keyword,1,image_20229_1.png,1.28,0.046,Room#Positive; Service#Positive; Public_area#Positive,Room,
+Q02,keyword,2,image_33002_0.png,1.2667,0.046,Location#Positive; Food#Positive; Room#Negative; Public_area#Neutral,Room,
+Q02,keyword,3,image_999_0.png,1.2639,0.046,Food#Positive; Room#Negative; Service#Positive; Public_area#Positive,Room,
+Q02,keyword,4,image_27373_4.png,1.2083,0.046,Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q02,keyword,5,image_27608_1.png,1.2044,0.046,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Room,
+Q02,keyword,6,image_1702_0.png,1.1773,0.046,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,Room,
+Q02,keyword,7,image_22405_0.png,1.1312,0.046,Location#Negative; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Neutral,Room,
+Q02,keyword,8,image_22695_1.png,1.0909,0.046,Room#Positive; Service#Positive; Public_area#Positive,Room,
+Q02,keyword,9,image_576_0.png,1.0579,0.046,Room#Negative; Facilities#Neutral; Service#Neutral; Public_area#Neutral,Room,
+Q02,keyword,10,image_27608_2.png,1.0579,0.046,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Room,
+Q02,image-siglip-nolabels,1,image_29480_2.png,0.1023,0.049,Location#Positive; Room#Positive; Service#Positive; Public_area#Positive,Room,
+Q02,image-siglip-nolabels,2,image_7913_0.png,0.0971,0.049,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q02,image-siglip-nolabels,3,image_23183_1.png,0.0969,0.049,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Room,
+Q02,image-siglip-nolabels,4,image_9832_3.png,0.096,0.049,Location#Positive; Room#Positive; Public_area#Positive,Room,
+Q02,image-siglip-nolabels,5,image_28119_3.png,0.0914,0.049,Room#Positive; Service#Positive,Room,
+Q02,image-siglip-nolabels,6,image_10361_1.png,0.0891,0.049,Room#Neutral; Service#Negative,Room,
+Q02,image-siglip-nolabels,7,image_7838_2.png,0.0888,0.049,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Room,
+Q02,image-siglip-nolabels,8,image_4800_1.png,0.0802,0.049,Room#Negative,Room,
+Q02,image-siglip-nolabels,9,image_24608_0.png,0.0786,0.049,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Room,
+Q02,image-siglip-nolabels,10,image_10049_2.png,0.0781,0.049,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,
+Q03,image-clip,1,image_8011_0.png,0.3061,0.037,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,image-clip,2,image_30927_1.png,0.3022,0.037,Food#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,image-clip,3,image_27616_1.png,0.3017,0.037,Food#Neutral; Room#Positive; Facilities#Positive; Service#Negative; Public_area#Neutral,Food,
+Q03,image-clip,4,image_27181_0.png,0.3015,0.037,Food#Neutral; Room#Negative; Facilities#Neutral; Public_area#Neutral,Food,
+Q03,image-clip,5,image_7844_5.png,0.2985,0.037,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,image-clip,6,image_7844_4.png,0.2982,0.037,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,image-clip,7,image_22315_1.png,0.2959,0.037,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Negative,Food,
+Q03,image-clip,8,image_2901_2.png,0.2944,0.037,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,
+Q03,image-clip,9,image_8158_0.png,0.2942,0.037,Food#Neutral; Facilities#Positive; Service#Negative; Public_area#Positive,Food,
+Q03,image-clip,10,image_2138_0.png,0.2927,0.037,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Food,
+Q03,image-siglip,1,image_7844_4.png,0.1296,0.065,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,image-siglip,2,image_7844_5.png,0.1289,0.065,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,image-siglip,3,image_26783_2.png,0.1246,0.065,Food#Positive; Public_area#Positive,Food,
+Q03,image-siglip,4,image_27181_0.png,0.124,0.065,Food#Neutral; Room#Negative; Facilities#Neutral; Public_area#Neutral,Food,
+Q03,image-siglip,5,image_8011_0.png,0.1236,0.065,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,image-siglip,6,image_2138_0.png,0.113,0.065,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Food,
+Q03,image-siglip,7,image_27616_1.png,0.1104,0.065,Food#Neutral; Room#Positive; Facilities#Positive; Service#Negative; Public_area#Neutral,Food,
+Q03,image-siglip,8,image_30835_0.png,0.1098,0.065,Food#Neutral; Room#Positive; Service#Positive,Food,
+Q03,image-siglip,9,image_30927_1.png,0.1095,0.065,Food#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,image-siglip,10,image_7844_2.png,0.1093,0.065,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,caption-clip,1,image_22467_0.png,0.7191,0.039,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,caption-clip,2,image_20969_0.png,0.7166,0.039,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Food,
+Q03,caption-clip,3,image_6382_1.png,0.7046,0.039,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,caption-clip,4,image_28594_5.png,0.6877,0.039,Food#Neutral; Room#Positive; Public_area#Positive,Food,
+Q03,caption-clip,5,image_12260_0.png,0.6754,0.039,Food#Neutral; Room#Negative; Service#Positive; Public_area#Neutral,Food,
+Q03,caption-clip,6,image_20969_1.png,0.6714,0.039,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Food,
+Q03,caption-clip,7,image_27537_4.png,0.6702,0.039,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Food,
+Q03,caption-clip,8,image_18846_2.png,0.6677,0.039,Food#Negative; Service#Negative,Food,
+Q03,caption-clip,9,image_10594_1.png,0.6506,0.039,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,caption-clip,10,image_7356_0.png,0.6463,0.039,Food#Negative; Facilities#Positive; Public_area#Positive,Food,
+Q03,caption-siglip,1,image_11350_1.png,0.5622,0.069,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Food,
+Q03,caption-siglip,2,image_7838_2.png,0.5434,0.069,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Food,
+Q03,caption-siglip,3,image_7844_4.png,0.5194,0.069,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,caption-siglip,4,image_27181_0.png,0.5169,0.069,Food#Neutral; Room#Negative; Facilities#Neutral; Public_area#Neutral,Food,
+Q03,caption-siglip,5,image_26783_2.png,0.4788,0.069,Food#Positive; Public_area#Positive,Food,
+Q03,caption-siglip,6,image_7844_5.png,0.4784,0.069,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,caption-siglip,7,image_19852_0.png,0.4699,0.069,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Food,
+Q03,caption-siglip,8,image_6382_2.png,0.4566,0.069,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,caption-siglip,9,image_2901_3.png,0.4558,0.069,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,
+Q03,caption-siglip,10,image_22467_0.png,0.4477,0.069,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,keyword,1,image_2138_0.png,7.2235,0.038,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Food,
+Q03,keyword,2,image_7844_2.png,6.65,0.038,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,keyword,3,image_7844_5.png,6.6223,0.038,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,keyword,4,image_26783_2.png,6.4782,0.038,Food#Positive; Public_area#Positive,Food,
+Q03,keyword,5,image_2901_1.png,6.3135,0.038,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,
+Q03,keyword,6,image_27537_4.png,6.2779,0.038,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Food,
+Q03,keyword,7,image_11350_1.png,6.25,0.038,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Food,
+Q03,keyword,8,image_2901_2.png,6.2187,0.038,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,
+Q03,keyword,9,image_27181_0.png,6.2187,0.038,Food#Neutral; Room#Negative; Facilities#Neutral; Public_area#Neutral,Food,
+Q03,keyword,10,image_7844_4.png,6.2187,0.038,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,image-siglip-nolabels,1,image_7844_4.png,0.1296,0.053,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,image-siglip-nolabels,2,image_7844_5.png,0.1289,0.053,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,image-siglip-nolabels,3,image_5772_1.png,0.128,0.053,Facilities#Positive; Public_area#Positive,Food,
+Q03,image-siglip-nolabels,4,image_26783_2.png,0.1246,0.053,Food#Positive; Public_area#Positive,Food,
+Q03,image-siglip-nolabels,5,image_27181_0.png,0.124,0.053,Food#Neutral; Room#Negative; Facilities#Neutral; Public_area#Neutral,Food,
+Q03,image-siglip-nolabels,6,image_8011_0.png,0.1236,0.053,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q03,image-siglip-nolabels,7,image_2138_0.png,0.113,0.053,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Food,
+Q03,image-siglip-nolabels,8,image_27616_1.png,0.1104,0.053,Food#Neutral; Room#Positive; Facilities#Positive; Service#Negative; Public_area#Neutral,Food,
+Q03,image-siglip-nolabels,9,image_30835_0.png,0.1098,0.053,Food#Neutral; Room#Positive; Service#Positive,Food,
+Q03,image-siglip-nolabels,10,image_30927_1.png,0.1095,0.053,Food#Positive; Service#Positive; Public_area#Positive,Food,
+Q04,image-clip,1,image_11800_0.png,0.3256,0.039,Service#Negative; Public_area#Neutral,Public_area,
+Q04,image-clip,2,image_5488_1.png,0.324,0.039,Facilities#Negative; Service#Positive; Public_area#Positive,Public_area,
+Q04,image-clip,3,image_23101_0.png,0.3206,0.039,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,
+Q04,image-clip,4,image_5765_3.png,0.3128,0.039,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Public_area,
+Q04,image-clip,5,image_2733_0.png,0.3122,0.039,Service#Positive; Public_area#Positive,Public_area,
+Q04,image-clip,6,image_27537_5.png,0.3099,0.039,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,
+Q04,image-clip,7,image_20969_1.png,0.3049,0.039,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Public_area,
+Q04,image-clip,8,image_2670_1.png,0.3037,0.039,Food#Negative; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,
+Q04,image-clip,9,image_22806_0.png,0.303,0.039,Location#Positive; Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Public_area,
+Q04,image-clip,10,image_7843_1.png,0.3022,0.039,Room#Positive; Facilities#Negative; Service#Neutral; Public_area#Neutral,Public_area,
+Q04,image-siglip,1,image_26088_0.png,0.1146,0.066,Service#Positive; Public_area#Positive,Public_area,
+Q04,image-siglip,2,image_22806_0.png,0.1131,0.066,Location#Positive; Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Public_area,
+Q04,image-siglip,3,image_2733_0.png,0.1071,0.066,Service#Positive; Public_area#Positive,Public_area,
+Q04,image-siglip,4,image_1876_0.png,0.1054,0.066,Location#Negative; Service#Positive; Public_area#Positive,Public_area,
+Q04,image-siglip,5,image_30639_0.png,0.1052,0.066,Service#Positive; Public_area#Negative,Public_area,
+Q04,image-siglip,6,image_23101_0.png,0.1049,0.066,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,
+Q04,image-siglip,7,image_26662_0.png,0.1041,0.066,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Public_area,
+Q04,image-siglip,8,image_5623_0.png,0.1025,0.066,Location#Positive; Food#Neutral; Service#Positive; Public_area#Positive,Public_area,
+Q04,image-siglip,9,image_27537_5.png,0.1024,0.066,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,
+Q04,image-siglip,10,image_19856_0.png,0.102,0.066,Service#Negative; Public_area#Neutral,Public_area,
+Q04,caption-clip,1,image_20969_1.png,0.7977,0.039,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Public_area,
+Q04,caption-clip,2,image_7843_0.png,0.7675,0.039,Room#Positive; Facilities#Negative; Service#Neutral; Public_area#Neutral,Public_area,
+Q04,caption-clip,3,image_29520_0.png,0.7538,0.039,Service#Positive; Public_area#Neutral,Public_area,
+Q04,caption-clip,4,image_23101_0.png,0.7521,0.039,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,
+Q04,caption-clip,5,image_26662_0.png,0.7507,0.039,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Public_area,
+Q04,caption-clip,6,image_7843_1.png,0.7465,0.039,Room#Positive; Facilities#Negative; Service#Neutral; Public_area#Neutral,Public_area,
+Q04,caption-clip,7,image_22467_0.png,0.7458,0.039,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q04,caption-clip,8,image_20302_0.png,0.7336,0.039,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Public_area,
+Q04,caption-clip,9,image_7459_0.png,0.7333,0.039,Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q04,caption-clip,10,image_10594_1.png,0.7311,0.039,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q04,caption-siglip,1,image_7838_2.png,0.5705,0.066,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,
+Q04,caption-siglip,2,image_32204_1.png,0.5423,0.066,Service#Positive; Public_area#Positive,Public_area,
+Q04,caption-siglip,3,image_7913_0.png,0.5347,0.066,Room#Positive; Facilities#Negative; Public_area#Positive,Public_area,
+Q04,caption-siglip,4,image_19852_0.png,0.5011,0.066,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Public_area,
+Q04,caption-siglip,5,image_27537_5.png,0.4962,0.066,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,
+Q04,caption-siglip,6,image_6382_2.png,0.4945,0.066,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q04,caption-siglip,7,image_29520_0.png,0.4775,0.066,Service#Positive; Public_area#Neutral,Public_area,
+Q04,caption-siglip,8,image_22467_0.png,0.4749,0.066,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q04,caption-siglip,9,image_2533_2.png,0.4733,0.066,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q04,caption-siglip,10,image_28844_1.png,0.4702,0.066,Room#Negative; Public_area#Positive,Public_area,
+Q04,keyword,1,image_2733_0.png,8.577,0.049,Service#Positive; Public_area#Positive,Public_area,
+Q04,keyword,2,image_26662_0.png,8.5534,0.049,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Public_area,
+Q04,keyword,3,image_22806_0.png,8.4124,0.049,Location#Positive; Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Public_area,
+Q04,keyword,4,image_23101_0.png,8.3674,0.049,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,
+Q04,keyword,5,image_19856_0.png,8.2152,0.049,Service#Negative; Public_area#Neutral,Public_area,
+Q04,keyword,6,image_5623_0.png,8.0693,0.049,Location#Positive; Food#Neutral; Service#Positive; Public_area#Positive,Public_area,
+Q04,keyword,7,image_30639_0.png,8.0461,0.049,Service#Positive; Public_area#Negative,Public_area,
+Q04,keyword,8,image_20969_1.png,8.0393,0.049,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Public_area,
+Q04,keyword,9,image_1702_0.png,8.0044,0.049,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,Public_area,
+Q04,keyword,10,image_32817_0.png,7.9657,0.049,Location#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q04,image-siglip-nolabels,1,image_26088_0.png,0.1146,0.048,Service#Positive; Public_area#Positive,Public_area,
+Q04,image-siglip-nolabels,2,image_22806_0.png,0.1131,0.048,Location#Positive; Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Public_area,
+Q04,image-siglip-nolabels,3,image_2733_0.png,0.1071,0.048,Service#Positive; Public_area#Positive,Public_area,
+Q04,image-siglip-nolabels,4,image_1876_0.png,0.1054,0.048,Location#Negative; Service#Positive; Public_area#Positive,Public_area,
+Q04,image-siglip-nolabels,5,image_30639_0.png,0.1052,0.048,Service#Positive; Public_area#Negative,Public_area,
+Q04,image-siglip-nolabels,6,image_23101_0.png,0.1049,0.048,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,
+Q04,image-siglip-nolabels,7,image_26662_0.png,0.1041,0.048,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Public_area,
+Q04,image-siglip-nolabels,8,image_5623_0.png,0.1025,0.048,Location#Positive; Food#Neutral; Service#Positive; Public_area#Positive,Public_area,
+Q04,image-siglip-nolabels,9,image_27537_5.png,0.1024,0.048,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,
+Q04,image-siglip-nolabels,10,image_19856_0.png,0.102,0.048,Service#Negative; Public_area#Neutral,Public_area,
+Q05,image-clip,1,image_3215_0.png,0.2889,0.021,Service#Positive; Public_area#Positive,,
+Q05,image-clip,2,image_20684_0.png,0.2862,0.021,Room#Negative; Service#Neutral,,
+Q05,image-clip,3,image_28432_4.png,0.2839,0.021,Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-clip,4,image_6773_1.png,0.2826,0.021,Location#Positive; Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-clip,5,image_22528_0.png,0.2825,0.021,Room#Negative; Facilities#Positive; Service#Negative; Public_area#Positive,,
+Q05,image-clip,6,image_27183_2.png,0.2805,0.021,Location#Positive; Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,,
+Q05,image-clip,7,image_23186_2.png,0.2784,0.021,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-clip,8,image_27373_4.png,0.2784,0.021,Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-clip,9,image_6312_0.png,0.2782,0.021,Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-clip,10,image_28837_3.png,0.2758,0.021,Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-siglip,1,image_28432_4.png,0.0988,0.048,Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-siglip,2,image_27183_2.png,0.0972,0.048,Location#Positive; Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,,
+Q05,image-siglip,3,image_24852_1.png,0.0953,0.048,Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-siglip,4,image_2150_0.png,0.0927,0.048,Location#Negative; Food#Negative; Service#Positive; Public_area#Positive,,
+Q05,image-siglip,5,image_3547_3.png,0.0902,0.048,Food#Neutral; Room#Neutral; Facilities#Neutral; Service#Negative; Public_area#Neutral,,
+Q05,image-siglip,6,image_28461_5.png,0.09,0.048,Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-siglip,7,image_20179_0.png,0.0889,0.048,Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Neutral,,
+Q05,image-siglip,8,image_28459_0.png,0.0885,0.048,Facilities#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-siglip,9,image_22152_2.png,0.0873,0.048,Location#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,,
+Q05,image-siglip,10,image_28128_1.png,0.0873,0.048,Room#Positive; Facilities#Negative; Public_area#Positive,,
+Q05,caption-clip,1,image_20969_0.png,0.7558,0.021,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,,
+Q05,caption-clip,2,image_5488_0.png,0.746,0.021,Facilities#Negative; Service#Positive; Public_area#Positive,,
+Q05,caption-clip,3,image_29307_0.png,0.7421,0.021,Room#Positive,,
+Q05,caption-clip,4,image_27183_2.png,0.7375,0.021,Location#Positive; Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,,
+Q05,caption-clip,5,image_22467_0.png,0.7335,0.021,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,,
+Q05,caption-clip,6,image_28461_3.png,0.7328,0.021,Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,caption-clip,7,image_6382_1.png,0.7286,0.021,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,
+Q05,caption-clip,8,image_23795_0.png,0.7285,0.021,Service#Positive; Public_area#Neutral,,
+Q05,caption-clip,9,image_19790_0.png,0.7245,0.021,Room#Neutral; Public_area#Positive,,
+Q05,caption-clip,10,image_22506_2.png,0.7203,0.021,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,
+Q05,caption-siglip,1,image_7838_2.png,0.5265,0.051,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,,
+Q05,caption-siglip,2,image_19852_0.png,0.5018,0.051,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,,
+Q05,caption-siglip,3,image_6382_2.png,0.4705,0.051,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,
+Q05,caption-siglip,4,image_22365_0.png,0.4689,0.051,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive; Public_area#Positive,,
+Q05,caption-siglip,5,image_19051_0.png,0.4684,0.051,Food#Positive; Room#Positive; Facilities#Neutral; Public_area#Neutral,,
+Q05,caption-siglip,6,image_7913_0.png,0.4369,0.051,Room#Positive; Facilities#Negative; Public_area#Positive,,
+Q05,caption-siglip,7,image_2533_2.png,0.432,0.051,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,
+Q05,caption-siglip,8,image_22214_0.png,0.4291,0.051,Facilities#Positive; Service#Positive; Public_area#Neutral,,
+Q05,caption-siglip,9,image_21912_1.png,0.4271,0.051,Food#Positive; Service#Negative; Public_area#Positive,,
+Q05,caption-siglip,10,image_26783_1.png,0.4244,0.051,Food#Positive; Public_area#Positive,,
+Q05,keyword,1,image_20950_2.png,5.1989,0.003,Food#Positive; Room#Positive; Facilities#Neutral; Service#Neutral; Public_area#Positive,,
+Q05,keyword,2,image_7459_2.png,5.0252,0.003,Facilities#Positive; Service#Positive; Public_area#Positive,,
+Q05,keyword,3,image_20185_0.png,3.8204,0.003,Public_area#Neutral; Facilities#Neutral,,
+Q05,keyword,4,image_19248_0.png,3.5551,0.003,Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,keyword,5,image_27608_2.png,3.5288,0.003,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,,
+Q05,keyword,6,image_21038_1.png,3.5232,0.003,Location#Negative; Food#Neutral; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,
+Q05,keyword,7,image_6773_1.png,3.451,0.003,Location#Positive; Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,keyword,8,image_26110_4.png,3.365,0.003,Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,
+Q05,keyword,9,image_20179_0.png,3.3484,0.003,Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Neutral,,
+Q05,keyword,10,image_22088_2.png,3.3155,0.003,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,,
+Q05,image-siglip-nolabels,1,image_28432_4.png,0.0988,0.048,Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-siglip-nolabels,2,image_27183_2.png,0.0972,0.048,Location#Positive; Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,,
+Q05,image-siglip-nolabels,3,image_24852_1.png,0.0953,0.048,Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-siglip-nolabels,4,image_2150_0.png,0.0927,0.048,Location#Negative; Food#Negative; Service#Positive; Public_area#Positive,,
+Q05,image-siglip-nolabels,5,image_3547_3.png,0.0902,0.048,Food#Neutral; Room#Neutral; Facilities#Neutral; Service#Negative; Public_area#Neutral,,
+Q05,image-siglip-nolabels,6,image_28461_5.png,0.09,0.048,Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-siglip-nolabels,7,image_20179_0.png,0.0889,0.048,Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Neutral,,
+Q05,image-siglip-nolabels,8,image_28459_0.png,0.0885,0.048,Facilities#Positive; Service#Positive; Public_area#Positive,,
+Q05,image-siglip-nolabels,9,image_22152_2.png,0.0873,0.048,Location#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,,
+Q05,image-siglip-nolabels,10,image_28128_1.png,0.0873,0.048,Room#Positive; Facilities#Negative; Public_area#Positive,,
+Q06,image-clip,1,image_20684_0.png,0.3077,0.04,Room#Negative; Service#Neutral,Room,
+Q06,image-clip,2,image_29480_1.png,0.2996,0.04,Location#Positive; Room#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,image-clip,3,image_28444_1.png,0.2964,0.04,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,image-clip,4,image_9832_2.png,0.2918,0.04,Location#Positive; Room#Positive; Public_area#Positive,Room,
+Q06,image-clip,5,image_5907_0.png,0.289,0.04,Location#Positive; Room#Positive; Service#Positive,Room,
+Q06,image-clip,6,image_5907_2.png,0.2856,0.04,Location#Positive; Room#Positive; Service#Positive,Room,
+Q06,image-clip,7,image_2740_0.png,0.2855,0.04,Location#Positive; Room#Positive; Service#Positive,Room,
+Q06,image-clip,8,image_32430_0.png,0.2834,0.04,Room#Positive,Room,
+Q06,image-clip,9,image_4800_2.png,0.283,0.04,Room#Negative,Room,
+Q06,image-clip,10,image_30546_0.png,0.2829,0.04,Room#Positive; Service#Positive,Room,
+Q06,image-siglip,1,image_27616_4.png,0.1214,0.064,Food#Neutral; Room#Positive; Facilities#Positive; Service#Negative; Public_area#Neutral,Room,
+Q06,image-siglip,2,image_9287_0.png,0.1112,0.064,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Room,
+Q06,image-siglip,3,image_24619_0.png,0.1099,0.064,Room#Neutral; Facilities#Neutral; Public_area#Positive,Room,
+Q06,image-siglip,4,image_19790_0.png,0.1093,0.064,Room#Neutral; Public_area#Positive,Room,
+Q06,image-siglip,5,image_2138_1.png,0.1081,0.064,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Room,
+Q06,image-siglip,6,image_3141_0.png,0.1056,0.064,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive,Room,
+Q06,image-siglip,7,image_4512_1.png,0.1026,0.064,Room#Negative; Service#Positive,Room,
+Q06,image-siglip,8,image_4512_0.png,0.1024,0.064,Room#Negative; Service#Positive,Room,
+Q06,image-siglip,9,image_28128_0.png,0.1012,0.064,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q06,image-siglip,10,image_30546_0.png,0.1004,0.064,Room#Positive; Service#Positive,Room,
+Q06,caption-clip,1,image_19790_0.png,0.75,0.038,Room#Neutral; Public_area#Positive,Room,
+Q06,caption-clip,2,image_29307_0.png,0.7375,0.038,Room#Positive,Room,
+Q06,caption-clip,3,image_22506_2.png,0.7302,0.038,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,caption-clip,4,image_10938_0.png,0.7144,0.038,Room#Negative; Service#Negative,Room,
+Q06,caption-clip,5,image_25839_0.png,0.7095,0.038,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive,Room,
+Q06,caption-clip,6,image_12605_0.png,0.7093,0.038,Room#Negative; Service#Negative,Room,
+Q06,caption-clip,7,image_23186_1.png,0.6995,0.038,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,caption-clip,8,image_9832_1.png,0.6968,0.038,Location#Positive; Room#Positive; Public_area#Positive,Room,
+Q06,caption-clip,9,image_20229_0.png,0.696,0.038,Room#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,caption-clip,10,image_20969_0.png,0.6957,0.038,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,
+Q06,caption-siglip,1,image_7838_2.png,0.6548,0.072,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Room,
+Q06,caption-siglip,2,image_19852_0.png,0.5556,0.072,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Room,
+Q06,caption-siglip,3,image_19051_0.png,0.4908,0.072,Food#Positive; Room#Positive; Facilities#Neutral; Public_area#Neutral,Room,
+Q06,caption-siglip,4,image_3035_1.png,0.4901,0.072,Room#Negative; Service#Negative,Room,
+Q06,caption-siglip,5,image_2533_2.png,0.4765,0.072,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,caption-siglip,6,image_21605_2.png,0.4711,0.072,Room#Negative; Service#Negative; Public_area#Negative,Room,
+Q06,caption-siglip,7,image_7913_0.png,0.4644,0.072,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q06,caption-siglip,8,image_28844_1.png,0.4536,0.072,Room#Negative; Public_area#Positive,Room,
+Q06,caption-siglip,9,image_26110_4.png,0.451,0.072,Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,caption-siglip,10,image_28844_0.png,0.436,0.072,Room#Negative; Public_area#Positive,Room,
+Q06,keyword,1,image_28444_1.png,5.6108,0.045,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,keyword,2,image_21038_1.png,4.4749,0.045,Location#Negative; Food#Neutral; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,keyword,3,image_7980_0.png,4.0535,0.045,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,keyword,4,image_22506_2.png,4.0128,0.045,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,keyword,5,image_24852_1.png,3.9994,0.045,Room#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,keyword,6,image_20684_0.png,3.9861,0.045,Room#Negative; Service#Neutral,Room,
+Q06,keyword,7,image_19790_0.png,3.9861,0.045,Room#Neutral; Public_area#Positive,Room,
+Q06,keyword,8,image_23183_2.png,3.9861,0.045,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Room,
+Q06,keyword,9,image_25362_1.png,3.9598,0.045,Room#Positive; Service#Positive; Public_area#Positive,Room,
+Q06,keyword,10,image_28128_0.png,3.9082,0.045,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q06,image-siglip-nolabels,1,image_20641_3.png,0.1218,0.053,Food#Negative; Facilities#Negative; Public_area#Positive,Room,
+Q06,image-siglip-nolabels,2,image_27616_4.png,0.1214,0.053,Food#Neutral; Room#Positive; Facilities#Positive; Service#Negative; Public_area#Neutral,Room,
+Q06,image-siglip-nolabels,3,image_30639_1.png,0.113,0.053,Service#Positive; Public_area#Negative,Room,
+Q06,image-siglip-nolabels,4,image_9287_0.png,0.1112,0.053,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Room,
+Q06,image-siglip-nolabels,5,image_20374_0.png,0.1112,0.053,Food#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q06,image-siglip-nolabels,6,image_24619_0.png,0.1099,0.053,Room#Neutral; Facilities#Neutral; Public_area#Positive,Room,
+Q06,image-siglip-nolabels,7,image_19790_0.png,0.1093,0.053,Room#Neutral; Public_area#Positive,Room,
+Q06,image-siglip-nolabels,8,image_2138_1.png,0.1081,0.053,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Room,
+Q06,image-siglip-nolabels,9,image_3141_0.png,0.1056,0.053,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive,Room,
+Q06,image-siglip-nolabels,10,image_23795_0.png,0.1056,0.053,Service#Positive; Public_area#Neutral,Room,
+Q07,image-clip,1,image_5765_3.png,0.3001,0.037,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Food,
+Q07,image-clip,2,image_22467_0.png,0.2977,0.037,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-clip,3,image_23101_0.png,0.2939,0.037,Food#Neutral; Service#Negative; Public_area#Negative,Food,
+Q07,image-clip,4,image_7909_0.png,0.2924,0.037,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-clip,5,image_7844_2.png,0.2923,0.037,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-clip,6,image_20356_0.png,0.2913,0.037,Food#Neutral; Room#Negative; Service#Positive; Public_area#Positive,Food,
+Q07,image-clip,7,image_94_3.png,0.2899,0.037,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Food,
+Q07,image-clip,8,image_27537_5.png,0.2867,0.037,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Food,
+Q07,image-clip,9,image_20969_1.png,0.2851,0.037,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Food,
+Q07,image-clip,10,image_5623_4.png,0.2834,0.037,Location#Positive; Food#Neutral; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip,1,image_7909_0.png,0.1098,0.064,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip,2,image_22467_0.png,0.0968,0.064,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip,3,image_8774_0.png,0.0956,0.064,Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip,4,image_7844_2.png,0.0935,0.064,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip,5,image_20950_0.png,0.0862,0.064,Food#Positive; Room#Positive; Facilities#Neutral; Service#Neutral; Public_area#Positive,Food,
+Q07,image-siglip,6,image_5603_1.png,0.083,0.064,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip,7,image_8158_0.png,0.0809,0.064,Food#Neutral; Facilities#Positive; Service#Negative; Public_area#Positive,Food,
+Q07,image-siglip,8,image_28461_4.png,0.077,0.064,Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip,9,image_160_2.png,0.0768,0.064,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,Food,
+Q07,image-siglip,10,image_5603_0.png,0.0764,0.064,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,caption-clip,1,image_5603_0.png,0.8026,0.037,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,caption-clip,2,image_22467_0.png,0.7661,0.037,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,caption-clip,3,image_20969_1.png,0.7633,0.037,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Food,
+Q07,caption-clip,4,image_6761_1.png,0.7507,0.037,Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Food,
+Q07,caption-clip,5,image_23101_0.png,0.7489,0.037,Food#Neutral; Service#Negative; Public_area#Negative,Food,
+Q07,caption-clip,6,image_10594_1.png,0.7456,0.037,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,caption-clip,7,image_6029_0.png,0.7415,0.037,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Food,
+Q07,caption-clip,8,image_4055_0.png,0.7308,0.037,Food#Neutral; Service#Positive; Public_area#Positive,Food,
+Q07,caption-clip,9,image_94_0.png,0.7253,0.037,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Food,
+Q07,caption-clip,10,image_28444_0.png,0.7181,0.037,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,caption-siglip,1,image_7838_2.png,0.5539,0.065,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Food,
+Q07,caption-siglip,2,image_22467_0.png,0.5482,0.065,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,caption-siglip,3,image_5603_0.png,0.5005,0.065,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,caption-siglip,4,image_5603_1.png,0.4899,0.065,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,caption-siglip,5,image_6382_2.png,0.4738,0.065,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,caption-siglip,6,image_11350_1.png,0.4642,0.065,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Food,
+Q07,caption-siglip,7,image_19852_0.png,0.4641,0.065,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Food,
+Q07,caption-siglip,8,image_21912_1.png,0.4482,0.065,Food#Positive; Service#Negative; Public_area#Positive,Food,
+Q07,caption-siglip,9,image_160_2.png,0.4467,0.065,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,Food,
+Q07,caption-siglip,10,image_22365_0.png,0.4427,0.065,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive; Public_area#Positive,Food,
+Q07,keyword,1,image_5603_0.png,9.3822,0.038,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,keyword,2,image_5603_1.png,9.0359,0.038,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,keyword,3,image_6761_1.png,9.0121,0.038,Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Food,
+Q07,keyword,4,image_6029_0.png,8.4388,0.038,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Food,
+Q07,keyword,5,image_7844_2.png,8.0464,0.038,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,keyword,6,image_159_0.png,7.9162,0.038,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,keyword,7,image_20950_0.png,7.8827,0.038,Food#Positive; Room#Positive; Facilities#Neutral; Service#Neutral; Public_area#Positive,Food,
+Q07,keyword,8,image_2670_1.png,7.8639,0.038,Food#Negative; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Food,
+Q07,keyword,9,image_22467_0.png,7.6776,0.038,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,keyword,10,image_8158_0.png,7.4591,0.038,Food#Neutral; Facilities#Positive; Service#Negative; Public_area#Positive,Food,
+Q07,image-siglip-nolabels,1,image_7909_0.png,0.1098,0.06,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip-nolabels,2,image_22467_0.png,0.0968,0.06,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip-nolabels,3,image_8774_0.png,0.0956,0.06,Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip-nolabels,4,image_7844_2.png,0.0935,0.06,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip-nolabels,5,image_1702_1.png,0.0921,0.06,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip-nolabels,6,image_20302_0.png,0.0895,0.06,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,
+Q07,image-siglip-nolabels,7,image_20950_0.png,0.0862,0.06,Food#Positive; Room#Positive; Facilities#Neutral; Service#Neutral; Public_area#Positive,Food,
+Q07,image-siglip-nolabels,8,image_7843_0.png,0.0853,0.06,Room#Positive; Facilities#Negative; Service#Neutral; Public_area#Neutral,Food,
+Q07,image-siglip-nolabels,9,image_5603_1.png,0.083,0.06,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q07,image-siglip-nolabels,10,image_7459_0.png,0.0828,0.06,Facilities#Positive; Service#Positive; Public_area#Positive,Food,
+Q08,image-clip,1,image_159_2.png,0.2957,0.042,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-clip,2,image_2670_0.png,0.2861,0.042,Food#Negative; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,
+Q08,image-clip,3,image_22695_0.png,0.2853,0.042,Room#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-clip,4,image_23186_2.png,0.2845,0.042,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-clip,5,image_27616_4.png,0.2843,0.042,Food#Neutral; Room#Positive; Facilities#Positive; Service#Negative; Public_area#Neutral,Public_area,
+Q08,image-clip,6,image_27373_4.png,0.2801,0.042,Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-clip,7,image_2150_0.png,0.2797,0.042,Location#Negative; Food#Negative; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-clip,8,image_5623_0.png,0.2796,0.042,Location#Positive; Food#Neutral; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-clip,9,image_6306_2.png,0.278,0.042,Location#Negative; Food#Positive; Facilities#Positive; Public_area#Positive,Public_area,
+Q08,image-clip,10,image_3215_0.png,0.2774,0.042,Service#Positive; Public_area#Positive,Public_area,
+Q08,image-siglip,1,image_8163_0.png,0.0883,0.067,Room#Positive; Facilities#Neutral; Public_area#Positive,Public_area,
+Q08,image-siglip,2,image_6306_2.png,0.0868,0.067,Location#Negative; Food#Positive; Facilities#Positive; Public_area#Positive,Public_area,
+Q08,image-siglip,3,image_3215_0.png,0.0839,0.067,Service#Positive; Public_area#Positive,Public_area,
+Q08,image-siglip,4,image_2150_0.png,0.0828,0.067,Location#Negative; Food#Negative; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-siglip,5,image_159_2.png,0.0815,0.067,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-siglip,6,image_3547_3.png,0.0812,0.067,Food#Neutral; Room#Neutral; Facilities#Neutral; Service#Negative; Public_area#Neutral,Public_area,
+Q08,image-siglip,7,image_33002_0.png,0.0797,0.067,Location#Positive; Food#Positive; Room#Negative; Public_area#Neutral,Public_area,
+Q08,image-siglip,8,image_23186_2.png,0.0781,0.067,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-siglip,9,image_2670_0.png,0.0775,0.067,Food#Negative; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,
+Q08,image-siglip,10,image_22695_0.png,0.0737,0.067,Room#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,caption-clip,1,image_23795_0.png,0.7625,0.037,Service#Positive; Public_area#Neutral,Public_area,
+Q08,caption-clip,2,image_20969_0.png,0.7581,0.037,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Public_area,
+Q08,caption-clip,3,image_6382_1.png,0.7444,0.037,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,caption-clip,4,image_22467_0.png,0.7393,0.037,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,caption-clip,5,image_20229_0.png,0.7293,0.037,Room#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,caption-clip,6,image_20969_1.png,0.7263,0.037,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Public_area,
+Q08,caption-clip,7,image_27183_2.png,0.7215,0.037,Location#Positive; Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,
+Q08,caption-clip,8,image_1702_1.png,0.7133,0.037,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,Public_area,
+Q08,caption-clip,9,image_22506_2.png,0.7087,0.037,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,caption-clip,10,image_28444_0.png,0.7012,0.037,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,caption-siglip,1,image_7838_2.png,0.6431,0.064,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,
+Q08,caption-siglip,2,image_6382_2.png,0.5445,0.064,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,caption-siglip,3,image_19852_0.png,0.5434,0.064,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Public_area,
+Q08,caption-siglip,4,image_21912_1.png,0.5314,0.064,Food#Positive; Service#Negative; Public_area#Positive,Public_area,
+Q08,caption-siglip,5,image_7913_0.png,0.528,0.064,Room#Positive; Facilities#Negative; Public_area#Positive,Public_area,
+Q08,caption-siglip,6,image_22365_0.png,0.5006,0.064,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive; Public_area#Positive,Public_area,
+Q08,caption-siglip,7,image_2533_2.png,0.4965,0.064,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,caption-siglip,8,image_576_0.png,0.4927,0.064,Room#Negative; Facilities#Neutral; Service#Neutral; Public_area#Neutral,Public_area,
+Q08,caption-siglip,9,image_19051_0.png,0.4898,0.064,Food#Positive; Room#Positive; Facilities#Neutral; Public_area#Neutral,Public_area,
+Q08,caption-siglip,10,image_28844_1.png,0.4865,0.064,Room#Negative; Public_area#Positive,Public_area,
+Q08,keyword,1,image_576_0.png,4.9589,0.049,Room#Negative; Facilities#Neutral; Service#Neutral; Public_area#Neutral,Public_area,
+Q08,keyword,2,image_22506_2.png,4.7861,0.049,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,keyword,3,image_2150_0.png,4.2216,0.049,Location#Negative; Food#Negative; Service#Positive; Public_area#Positive,Public_area,
+Q08,keyword,4,image_20185_0.png,4.2185,0.049,Public_area#Neutral; Facilities#Neutral,Public_area,
+Q08,keyword,5,image_24148_0.png,4.0531,0.049,Food#Neutral; Room#Negative; Facilities#Negative; Service#Positive; Public_area#Positive,Public_area,
+Q08,keyword,6,image_27373_4.png,4.0496,0.049,Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,keyword,7,image_19_1.png,3.9567,0.049,Location#Negative; Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,keyword,8,image_22018_0.png,3.8946,0.049,Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Neutral,Public_area,
+Q08,keyword,9,image_24089_0.png,3.8614,0.049,Location#Negative; Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,keyword,10,image_23186_2.png,3.8614,0.049,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-siglip-nolabels,1,image_8163_0.png,0.0883,0.048,Room#Positive; Facilities#Neutral; Public_area#Positive,Public_area,
+Q08,image-siglip-nolabels,2,image_6306_2.png,0.0868,0.048,Location#Negative; Food#Positive; Facilities#Positive; Public_area#Positive,Public_area,
+Q08,image-siglip-nolabels,3,image_3215_0.png,0.0839,0.048,Service#Positive; Public_area#Positive,Public_area,
+Q08,image-siglip-nolabels,4,image_2150_0.png,0.0828,0.048,Location#Negative; Food#Negative; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-siglip-nolabels,5,image_159_2.png,0.0815,0.048,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-siglip-nolabels,6,image_3547_3.png,0.0812,0.048,Food#Neutral; Room#Neutral; Facilities#Neutral; Service#Negative; Public_area#Neutral,Public_area,
+Q08,image-siglip-nolabels,7,image_33002_0.png,0.0797,0.048,Location#Positive; Food#Positive; Room#Negative; Public_area#Neutral,Public_area,
+Q08,image-siglip-nolabels,8,image_23186_2.png,0.0781,0.048,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q08,image-siglip-nolabels,9,image_2670_0.png,0.0775,0.048,Food#Negative; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,
+Q08,image-siglip-nolabels,10,image_22695_0.png,0.0737,0.048,Room#Positive; Service#Positive; Public_area#Positive,Public_area,
+Q09,image-clip,1,image_10930_1.png,0.2905,0.026,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q09,image-clip,2,image_4512_1.png,0.2833,0.026,Room#Negative; Service#Positive,Room,Negative
+Q09,image-clip,3,image_4512_0.png,0.2824,0.026,Room#Negative; Service#Positive,Room,Negative
+Q09,image-clip,4,image_11757_1.png,0.2787,0.026,Room#Negative; Service#Negative,Room,Negative
+Q09,image-clip,5,image_23186_0.png,0.2784,0.026,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q09,image-clip,6,image_1299_0.png,0.2759,0.026,Room#Negative; Service#Negative,Room,Negative
+Q09,image-clip,7,image_26664_0.png,0.2754,0.026,Room#Negative; Service#Negative,Room,Negative
+Q09,image-clip,8,image_20684_0.png,0.272,0.026,Room#Negative; Service#Neutral,Room,Negative
+Q09,image-clip,9,image_20969_0.png,0.2716,0.026,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q09,image-clip,10,image_10938_0.png,0.2704,0.026,Room#Negative; Service#Negative,Room,Negative
+Q09,image-siglip,1,image_4800_0.png,0.1274,0.053,Room#Negative,Room,Negative
+Q09,image-siglip,2,image_4800_2.png,0.0937,0.053,Room#Negative,Room,Negative
+Q09,image-siglip,3,image_11757_2.png,0.0918,0.053,Room#Negative; Service#Negative,Room,Negative
+Q09,image-siglip,4,image_26368_0.png,0.0907,0.053,Room#Negative,Room,Negative
+Q09,image-siglip,5,image_10938_0.png,0.0885,0.053,Room#Negative; Service#Negative,Room,Negative
+Q09,image-siglip,6,image_10930_1.png,0.0862,0.053,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q09,image-siglip,7,image_4512_0.png,0.0851,0.053,Room#Negative; Service#Positive,Room,Negative
+Q09,image-siglip,8,image_4512_1.png,0.085,0.053,Room#Negative; Service#Positive,Room,Negative
+Q09,image-siglip,9,image_25638_0.png,0.0833,0.053,Room#Negative,Room,Negative
+Q09,image-siglip,10,image_20969_0.png,0.0818,0.053,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q09,caption-clip,1,image_20969_0.png,0.7398,0.026,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q09,caption-clip,2,image_1702_1.png,0.688,0.026,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,Room,Negative
+Q09,caption-clip,3,image_10938_0.png,0.6845,0.026,Room#Negative; Service#Negative,Room,Negative
+Q09,caption-clip,4,image_28359_2.png,0.6843,0.026,Room#Negative,Room,Negative
+Q09,caption-clip,5,image_12605_0.png,0.6719,0.026,Room#Negative; Service#Negative,Room,Negative
+Q09,caption-clip,6,image_23186_1.png,0.6685,0.026,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q09,caption-clip,7,image_20969_1.png,0.6596,0.026,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q09,caption-clip,8,image_31852_0.png,0.659,0.026,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q09,caption-clip,9,image_23186_0.png,0.6375,0.026,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q09,caption-clip,10,image_10930_1.png,0.628,0.026,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q09,caption-siglip,1,image_3035_1.png,0.5167,0.053,Room#Negative; Service#Negative,Room,Negative
+Q09,caption-siglip,2,image_28844_1.png,0.4928,0.053,Room#Negative; Public_area#Positive,Room,Negative
+Q09,caption-siglip,3,image_28844_0.png,0.4674,0.053,Room#Negative; Public_area#Positive,Room,Negative
+Q09,caption-siglip,4,image_11757_0.png,0.4445,0.053,Room#Negative; Service#Negative,Room,Negative
+Q09,caption-siglip,5,image_11757_2.png,0.4008,0.053,Room#Negative; Service#Negative,Room,Negative
+Q09,caption-siglip,6,image_21605_2.png,0.3815,0.053,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q09,caption-siglip,7,image_11757_3.png,0.3547,0.053,Room#Negative; Service#Negative,Room,Negative
+Q09,caption-siglip,8,image_10930_0.png,0.3494,0.053,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q09,caption-siglip,9,image_28359_0.png,0.3493,0.053,Room#Negative,Room,Negative
+Q09,caption-siglip,10,image_10930_2.png,0.3422,0.053,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q09,keyword,1,image_23186_0.png,2.0372,0.016,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q09,keyword,2,image_11757_2.png,2.0167,0.016,Room#Negative; Service#Negative,Room,Negative
+Q09,keyword,3,image_20969_0.png,1.9966,0.016,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q09,keyword,4,image_11757_1.png,1.9498,0.016,Room#Negative; Service#Negative,Room,Negative
+Q09,keyword,5,image_31852_0.png,1.9324,0.016,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q09,keyword,6,image_28359_0.png,1.9125,0.016,Room#Negative,Room,Negative
+Q09,keyword,7,image_11586_0.png,1.8507,0.016,Room#Negative; Service#Negative,Room,Negative
+Q09,keyword,8,image_9287_1.png,1.8507,0.016,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q09,keyword,9,image_28359_2.png,1.8171,0.016,Room#Negative,Room,Negative
+Q09,keyword,10,image_10930_0.png,1.8007,0.016,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q09,image-siglip-nolabels,1,image_4800_0.png,0.1274,0.048,Room#Negative,Room,Negative
+Q09,image-siglip-nolabels,2,image_4800_2.png,0.0937,0.048,Room#Negative,Room,Negative
+Q09,image-siglip-nolabels,3,image_10361_0.png,0.0936,0.048,Room#Neutral; Service#Negative,Room,Negative
+Q09,image-siglip-nolabels,4,image_11757_2.png,0.0918,0.048,Room#Negative; Service#Negative,Room,Negative
+Q09,image-siglip-nolabels,5,image_32430_0.png,0.0914,0.048,Room#Positive,Room,Negative
+Q09,image-siglip-nolabels,6,image_26368_0.png,0.0907,0.048,Room#Negative,Room,Negative
+Q09,image-siglip-nolabels,7,image_24608_0.png,0.0886,0.048,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Room,Negative
+Q09,image-siglip-nolabels,8,image_10938_0.png,0.0885,0.048,Room#Negative; Service#Negative,Room,Negative
+Q09,image-siglip-nolabels,9,image_28119_4.png,0.0878,0.048,Room#Positive; Service#Positive,Room,Negative
+Q09,image-siglip-nolabels,10,image_12600_0.png,0.0869,0.048,Location#Positive; Room#Neutral,Room,Negative
+Q10,image-clip,1,image_5765_3.png,0.2973,0.029,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-clip,2,image_22528_0.png,0.2834,0.029,Room#Negative; Facilities#Positive; Service#Negative; Public_area#Positive,Facilities,Positive
+Q10,image-clip,3,image_31852_0.png,0.2811,0.029,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-clip,4,image_27616_4.png,0.2809,0.029,Food#Neutral; Room#Positive; Facilities#Positive; Service#Negative; Public_area#Neutral,Facilities,Positive
+Q10,image-clip,5,image_24120_1.png,0.2785,0.029,Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-clip,6,image_19852_1.png,0.2783,0.029,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Facilities,Positive
+Q10,image-clip,7,image_7980_0.png,0.274,0.029,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-clip,8,image_7980_3.png,0.2739,0.029,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-clip,9,image_23186_2.png,0.2734,0.029,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-clip,10,image_19347_0.png,0.2733,0.029,Room#Positive; Facilities#Positive; Service#Neutral; Public_area#Negative,Facilities,Positive
+Q10,image-siglip,1,image_24702_0.png,0.0949,0.055,Location#Negative; Food#Neutral; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip,2,image_28303_4.png,0.0931,0.055,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip,3,image_21228_0.png,0.0913,0.055,Food#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip,4,image_28444_4.png,0.0861,0.055,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip,5,image_28459_3.png,0.0852,0.055,Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip,6,image_23799_3.png,0.085,0.055,Food#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip,7,image_5603_0.png,0.0848,0.055,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip,8,image_7459_1.png,0.0841,0.055,Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip,9,image_6306_0.png,0.0834,0.055,Location#Negative; Food#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip,10,image_31852_0.png,0.083,0.055,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-clip,1,image_22467_0.png,0.7515,0.026,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-clip,2,image_28444_0.png,0.7503,0.026,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-clip,3,image_6382_1.png,0.7459,0.026,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-clip,4,image_31852_0.png,0.7413,0.026,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-clip,5,image_7459_0.png,0.7292,0.026,Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-clip,6,image_23186_1.png,0.7221,0.026,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-clip,7,image_22506_2.png,0.7184,0.026,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-clip,8,image_19852_1.png,0.7152,0.026,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Facilities,Positive
+Q10,caption-clip,9,image_2533_0.png,0.7046,0.026,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-clip,10,image_7356_0.png,0.6849,0.026,Food#Negative; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-siglip,1,image_19852_0.png,0.5115,0.053,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Facilities,Positive
+Q10,caption-siglip,2,image_6382_2.png,0.5086,0.053,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-siglip,3,image_2533_2.png,0.4894,0.053,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-siglip,4,image_22467_0.png,0.4345,0.053,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-siglip,5,image_22214_0.png,0.4043,0.053,Facilities#Positive; Service#Positive; Public_area#Neutral,Facilities,Positive
+Q10,caption-siglip,6,image_7220_1.png,0.3953,0.053,Food#Negative; Facilities#Positive; Public_area#Neutral,Facilities,Positive
+Q10,caption-siglip,7,image_28444_1.png,0.3697,0.053,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-siglip,8,image_5603_1.png,0.3413,0.053,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-siglip,9,image_23117_0.png,0.3399,0.053,Food#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,caption-siglip,10,image_27608_2.png,0.3392,0.053,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,keyword,1,image_27373_4.png,1.2083,0.017,Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,keyword,2,image_27608_1.png,1.2044,0.017,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,keyword,3,image_6306_2.png,1.1471,0.017,Location#Negative; Food#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,keyword,4,image_27608_2.png,1.0579,0.017,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,keyword,5,image_24089_0.png,1.0443,0.017,Location#Negative; Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,keyword,6,image_23186_2.png,1.0443,0.017,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,keyword,7,image_6382_3.png,1.0443,0.017,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,keyword,8,image_28303_5.png,1.0311,0.017,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,keyword,9,image_23175_0.png,1.0225,0.017,Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,keyword,10,image_22702_0.png,1.0183,0.017,Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip-nolabels,1,image_7913_1.png,0.0981,0.048,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,Positive
+Q10,image-siglip-nolabels,2,image_23101_0.png,0.096,0.048,Food#Neutral; Service#Negative; Public_area#Negative,Facilities,Positive
+Q10,image-siglip-nolabels,3,image_22806_0.png,0.0959,0.048,Location#Positive; Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip-nolabels,4,image_24702_0.png,0.0949,0.048,Location#Negative; Food#Neutral; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip-nolabels,5,image_19856_0.png,0.0946,0.048,Service#Negative; Public_area#Neutral,Facilities,Positive
+Q10,image-siglip-nolabels,6,image_28303_4.png,0.0931,0.048,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip-nolabels,7,image_21228_0.png,0.0913,0.048,Food#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip-nolabels,8,image_2733_0.png,0.0912,0.048,Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip-nolabels,9,image_5488_1.png,0.0903,0.048,Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Positive
+Q10,image-siglip-nolabels,10,image_19856_1.png,0.0899,0.048,Service#Negative; Public_area#Neutral,Facilities,Positive
+Q11,image-clip,1,image_23101_0.png,0.2619,0.026,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,image-clip,2,image_30639_0.png,0.2563,0.026,Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,image-clip,3,image_94_3.png,0.2497,0.026,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,image-clip,4,image_22315_1.png,0.2475,0.026,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,image-clip,5,image_30639_1.png,0.2473,0.026,Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,image-clip,6,image_94_0.png,0.2447,0.026,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,image-clip,7,image_2138_1.png,0.2426,0.026,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,image-clip,8,image_160_1.png,0.24,0.026,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q11,image-clip,9,image_160_2.png,0.2377,0.026,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q11,image-clip,10,image_10049_0.png,0.2348,0.026,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,image-siglip,1,image_23101_0.png,0.0713,0.053,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,image-siglip,2,image_94_0.png,0.0634,0.053,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,image-siglip,3,image_160_0.png,0.0565,0.053,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q11,image-siglip,4,image_30639_0.png,0.0481,0.053,Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,image-siglip,5,image_160_1.png,0.0467,0.053,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q11,image-siglip,6,image_94_3.png,0.0449,0.053,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,image-siglip,7,image_22088_1.png,0.0447,0.053,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,image-siglip,8,image_22088_0.png,0.0405,0.053,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,image-siglip,9,image_22088_2.png,0.0387,0.053,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,image-siglip,10,image_21605_2.png,0.0267,0.053,Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,caption-clip,1,image_23101_0.png,0.6162,0.026,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,caption-clip,2,image_94_0.png,0.6031,0.026,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,caption-clip,3,image_10049_0.png,0.6002,0.026,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,caption-clip,4,image_22088_0.png,0.5555,0.026,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,caption-clip,5,image_22088_1.png,0.5429,0.026,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,caption-clip,6,image_10049_2.png,0.4905,0.026,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,caption-clip,7,image_2138_0.png,0.4652,0.026,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,caption-clip,8,image_11350_2.png,0.4628,0.026,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,caption-clip,9,image_10049_1.png,0.4492,0.026,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,caption-clip,10,image_30639_0.png,0.434,0.026,Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,caption-siglip,1,image_21605_2.png,0.4205,0.053,Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,caption-siglip,2,image_11350_1.png,0.3637,0.053,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,caption-siglip,3,image_160_2.png,0.2755,0.053,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q11,caption-siglip,4,image_10049_1.png,0.2679,0.053,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,caption-siglip,5,image_94_3.png,0.2398,0.053,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,caption-siglip,6,image_22088_1.png,0.2283,0.053,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,caption-siglip,7,image_19347_1.png,0.2203,0.053,Room#Positive; Facilities#Positive; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q11,caption-siglip,8,image_19347_0.png,0.217,0.053,Room#Positive; Facilities#Positive; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q11,caption-siglip,9,image_22088_0.png,0.206,0.053,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,caption-siglip,10,image_23101_0.png,0.2024,0.053,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,keyword,1,image_21605_2.png,3.3078,0.01,Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,keyword,2,image_21605_0.png,0.0,0.01,Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,keyword,3,image_21605_3.png,0.0,0.01,Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,keyword,4,image_10049_0.png,0.0,0.01,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,keyword,5,image_10049_1.png,0.0,0.01,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,keyword,6,image_10049_2.png,0.0,0.01,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,keyword,7,image_10049_3.png,0.0,0.01,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q11,keyword,8,image_8514_0.png,0.0,0.01,Food#Negative; Room#Neutral; Facilities#Positive; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,keyword,9,image_22088_0.png,0.0,0.01,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,keyword,10,image_22088_1.png,0.0,0.01,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q11,image-siglip-nolabels,1,image_20969_1.png,0.0926,0.048,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Public_area,Negative
+Q11,image-siglip-nolabels,2,image_26339_1.png,0.0925,0.048,Location#Positive; Public_area#Positive,Public_area,Negative
+Q11,image-siglip-nolabels,3,image_5747_1.png,0.0923,0.048,Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Neutral,Public_area,Negative
+Q11,image-siglip-nolabels,4,image_19856_1.png,0.0876,0.048,Service#Negative; Public_area#Neutral,Public_area,Negative
+Q11,image-siglip-nolabels,5,image_5765_3.png,0.0873,0.048,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Public_area,Negative
+Q11,image-siglip-nolabels,6,image_22806_0.png,0.0865,0.048,Location#Positive; Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Public_area,Negative
+Q11,image-siglip-nolabels,7,image_27537_5.png,0.0796,0.048,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,Negative
+Q11,image-siglip-nolabels,8,image_26088_0.png,0.077,0.048,Service#Positive; Public_area#Positive,Public_area,Negative
+Q11,image-siglip-nolabels,9,image_28303_4.png,0.0729,0.048,Facilities#Positive; Public_area#Positive,Public_area,Negative
+Q11,image-siglip-nolabels,10,image_7459_0.png,0.0728,0.048,Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,Negative
+Q12,image-clip,1,image_25639_1.png,0.2877,0.036,Room#Positive,Room,
+Q12,image-clip,2,image_29480_1.png,0.286,0.036,Location#Positive; Room#Positive; Service#Positive; Public_area#Positive,Room,
+Q12,image-clip,3,image_10930_1.png,0.2856,0.036,Room#Negative; Facilities#Negative; Service#Negative,Room,
+Q12,image-clip,4,image_26664_0.png,0.279,0.036,Room#Negative; Service#Negative,Room,
+Q12,image-clip,5,image_11757_1.png,0.2781,0.036,Room#Negative; Service#Negative,Room,
+Q12,image-clip,6,image_5199_2.png,0.2771,0.036,Location#Positive; Food#Positive; Room#Positive; Service#Positive; Public_area#Neutral,Room,
+Q12,image-clip,7,image_4512_0.png,0.2758,0.036,Room#Negative; Service#Positive,Room,
+Q12,image-clip,8,image_32430_0.png,0.2755,0.036,Room#Positive,Room,
+Q12,image-clip,9,image_1299_0.png,0.275,0.036,Room#Negative; Service#Negative,Room,
+Q12,image-clip,10,image_5747_0.png,0.2747,0.036,Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Neutral,Room,
+Q12,image-siglip,1,image_4800_0.png,0.1044,0.067,Room#Negative,Room,
+Q12,image-siglip,2,image_4800_2.png,0.0964,0.067,Room#Negative,Room,
+Q12,image-siglip,3,image_24608_0.png,0.0954,0.067,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Room,
+Q12,image-siglip,4,image_10938_0.png,0.0941,0.067,Room#Negative; Service#Negative,Room,
+Q12,image-siglip,5,image_10361_0.png,0.0932,0.067,Room#Neutral; Service#Negative,Room,
+Q12,image-siglip,6,image_30546_0.png,0.0898,0.067,Room#Positive; Service#Positive,Room,
+Q12,image-siglip,7,image_24619_0.png,0.0896,0.067,Room#Neutral; Facilities#Neutral; Public_area#Positive,Room,
+Q12,image-siglip,8,image_32430_0.png,0.0873,0.067,Room#Positive,Room,
+Q12,image-siglip,9,image_31748_0.png,0.0864,0.067,Room#Neutral; Service#Positive,Room,
+Q12,image-siglip,10,image_19347_0.png,0.0864,0.067,Room#Positive; Facilities#Positive; Service#Neutral; Public_area#Negative,Room,
+Q12,caption-clip,1,image_29307_0.png,0.7402,0.036,Room#Positive,Room,
+Q12,caption-clip,2,image_20969_0.png,0.7356,0.036,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,
+Q12,caption-clip,3,image_22467_0.png,0.7069,0.036,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q12,caption-clip,4,image_20229_0.png,0.6985,0.036,Room#Positive; Service#Positive; Public_area#Positive,Room,
+Q12,caption-clip,5,image_1702_1.png,0.6981,0.036,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,Room,
+Q12,caption-clip,6,image_10938_0.png,0.6893,0.036,Room#Negative; Service#Negative,Room,
+Q12,caption-clip,7,image_28359_2.png,0.6862,0.036,Room#Negative,Room,
+Q12,caption-clip,8,image_10594_1.png,0.685,0.036,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,Room,
+Q12,caption-clip,9,image_9832_0.png,0.6822,0.036,Location#Positive; Room#Positive; Public_area#Positive,Room,
+Q12,caption-clip,10,image_28594_5.png,0.6812,0.036,Food#Neutral; Room#Positive; Public_area#Positive,Room,
+Q12,caption-siglip,1,image_7838_2.png,0.6051,0.063,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Room,
+Q12,caption-siglip,2,image_7913_0.png,0.5059,0.063,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q12,caption-siglip,3,image_3035_1.png,0.4947,0.063,Room#Negative; Service#Negative,Room,
+Q12,caption-siglip,4,image_28844_1.png,0.4893,0.063,Room#Negative; Public_area#Positive,Room,
+Q12,caption-siglip,5,image_19852_0.png,0.4824,0.063,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Room,
+Q12,caption-siglip,6,image_2533_2.png,0.48,0.063,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Room,
+Q12,caption-siglip,7,image_28844_0.png,0.4517,0.063,Room#Negative; Public_area#Positive,Room,
+Q12,caption-siglip,8,image_22365_0.png,0.4172,0.063,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive; Public_area#Positive,Room,
+Q12,caption-siglip,9,image_19051_0.png,0.4162,0.063,Food#Positive; Room#Positive; Facilities#Neutral; Public_area#Neutral,Room,
+Q12,caption-siglip,10,image_11757_0.png,0.4116,0.063,Room#Negative; Service#Negative,Room,
+Q12,keyword,1,image_7913_2.png,5.0865,0.045,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q12,keyword,2,image_21605_0.png,0.0,0.045,Room#Negative; Service#Negative; Public_area#Negative,Room,
+Q12,keyword,3,image_21605_2.png,0.0,0.045,Room#Negative; Service#Negative; Public_area#Negative,Room,
+Q12,keyword,4,image_21605_3.png,0.0,0.045,Room#Negative; Service#Negative; Public_area#Negative,Room,
+Q12,keyword,5,image_3035_0.png,0.0,0.045,Room#Negative; Service#Negative,Room,
+Q12,keyword,6,image_3035_1.png,0.0,0.045,Room#Negative; Service#Negative,Room,
+Q12,keyword,7,image_3821_0.png,0.0,0.045,Room#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q12,keyword,8,image_28844_0.png,0.0,0.045,Room#Negative; Public_area#Positive,Room,
+Q12,keyword,9,image_28844_1.png,0.0,0.045,Room#Negative; Public_area#Positive,Room,
+Q12,keyword,10,image_28134_1.png,0.0,0.045,Room#Negative; Service#Negative,Room,
+Q12,image-siglip-nolabels,1,image_4800_0.png,0.1044,0.05,Room#Negative,Room,
+Q12,image-siglip-nolabels,2,image_4800_2.png,0.0964,0.05,Room#Negative,Room,
+Q12,image-siglip-nolabels,3,image_24608_0.png,0.0954,0.05,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Room,
+Q12,image-siglip-nolabels,4,image_10938_0.png,0.0941,0.05,Room#Negative; Service#Negative,Room,
+Q12,image-siglip-nolabels,5,image_10361_0.png,0.0932,0.05,Room#Neutral; Service#Negative,Room,
+Q12,image-siglip-nolabels,6,image_23795_0.png,0.0916,0.05,Service#Positive; Public_area#Neutral,Room,
+Q12,image-siglip-nolabels,7,image_30546_0.png,0.0898,0.05,Room#Positive; Service#Positive,Room,
+Q12,image-siglip-nolabels,8,image_24619_0.png,0.0896,0.05,Room#Neutral; Facilities#Neutral; Public_area#Positive,Room,
+Q12,image-siglip-nolabels,9,image_20374_0.png,0.0883,0.05,Food#Positive; Facilities#Negative; Public_area#Positive,Room,
+Q12,image-siglip-nolabels,10,image_32430_0.png,0.0873,0.05,Room#Positive,Room,
+Q13,image-clip,1,image_10930_1.png,0.2905,0.027,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q13,image-clip,2,image_4512_1.png,0.2833,0.027,Room#Negative; Service#Positive,Room,Negative
+Q13,image-clip,3,image_4512_0.png,0.2824,0.027,Room#Negative; Service#Positive,Room,Negative
+Q13,image-clip,4,image_11757_1.png,0.2787,0.027,Room#Negative; Service#Negative,Room,Negative
+Q13,image-clip,5,image_23186_0.png,0.2784,0.027,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q13,image-clip,6,image_1299_0.png,0.2759,0.027,Room#Negative; Service#Negative,Room,Negative
+Q13,image-clip,7,image_26664_0.png,0.2754,0.027,Room#Negative; Service#Negative,Room,Negative
+Q13,image-clip,8,image_20684_0.png,0.272,0.027,Room#Negative; Service#Neutral,Room,Negative
+Q13,image-clip,9,image_20969_0.png,0.2716,0.027,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q13,image-clip,10,image_10938_0.png,0.2704,0.027,Room#Negative; Service#Negative,Room,Negative
+Q13,image-siglip,1,image_4800_0.png,0.1274,0.055,Room#Negative,Room,Negative
+Q13,image-siglip,2,image_4800_2.png,0.0937,0.055,Room#Negative,Room,Negative
+Q13,image-siglip,3,image_11757_2.png,0.0918,0.055,Room#Negative; Service#Negative,Room,Negative
+Q13,image-siglip,4,image_26368_0.png,0.0907,0.055,Room#Negative,Room,Negative
+Q13,image-siglip,5,image_10938_0.png,0.0885,0.055,Room#Negative; Service#Negative,Room,Negative
+Q13,image-siglip,6,image_10930_1.png,0.0862,0.055,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q13,image-siglip,7,image_4512_0.png,0.0851,0.055,Room#Negative; Service#Positive,Room,Negative
+Q13,image-siglip,8,image_4512_1.png,0.085,0.055,Room#Negative; Service#Positive,Room,Negative
+Q13,image-siglip,9,image_25638_0.png,0.0833,0.055,Room#Negative,Room,Negative
+Q13,image-siglip,10,image_20969_0.png,0.0818,0.055,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q13,caption-clip,1,image_20969_0.png,0.7398,0.027,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q13,caption-clip,2,image_1702_1.png,0.688,0.027,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,Room,Negative
+Q13,caption-clip,3,image_10938_0.png,0.6845,0.027,Room#Negative; Service#Negative,Room,Negative
+Q13,caption-clip,4,image_28359_2.png,0.6843,0.027,Room#Negative,Room,Negative
+Q13,caption-clip,5,image_12605_0.png,0.6719,0.027,Room#Negative; Service#Negative,Room,Negative
+Q13,caption-clip,6,image_23186_1.png,0.6685,0.027,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q13,caption-clip,7,image_20969_1.png,0.6596,0.027,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q13,caption-clip,8,image_31852_0.png,0.659,0.027,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q13,caption-clip,9,image_23186_0.png,0.6375,0.027,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q13,caption-clip,10,image_10930_1.png,0.628,0.027,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q13,caption-siglip,1,image_3035_1.png,0.5167,0.055,Room#Negative; Service#Negative,Room,Negative
+Q13,caption-siglip,2,image_28844_1.png,0.4928,0.055,Room#Negative; Public_area#Positive,Room,Negative
+Q13,caption-siglip,3,image_28844_0.png,0.4674,0.055,Room#Negative; Public_area#Positive,Room,Negative
+Q13,caption-siglip,4,image_11757_0.png,0.4445,0.055,Room#Negative; Service#Negative,Room,Negative
+Q13,caption-siglip,5,image_11757_2.png,0.4008,0.055,Room#Negative; Service#Negative,Room,Negative
+Q13,caption-siglip,6,image_21605_2.png,0.3815,0.055,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q13,caption-siglip,7,image_11757_3.png,0.3547,0.055,Room#Negative; Service#Negative,Room,Negative
+Q13,caption-siglip,8,image_10930_0.png,0.3494,0.055,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q13,caption-siglip,9,image_28359_0.png,0.3493,0.055,Room#Negative,Room,Negative
+Q13,caption-siglip,10,image_10930_2.png,0.3422,0.055,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q13,keyword,1,image_23186_0.png,2.0372,0.016,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q13,keyword,2,image_11757_2.png,2.0167,0.016,Room#Negative; Service#Negative,Room,Negative
+Q13,keyword,3,image_20969_0.png,1.9966,0.016,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q13,keyword,4,image_11757_1.png,1.9498,0.016,Room#Negative; Service#Negative,Room,Negative
+Q13,keyword,5,image_31852_0.png,1.9324,0.016,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q13,keyword,6,image_28359_0.png,1.9125,0.016,Room#Negative,Room,Negative
+Q13,keyword,7,image_11586_0.png,1.8507,0.016,Room#Negative; Service#Negative,Room,Negative
+Q13,keyword,8,image_9287_1.png,1.8507,0.016,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q13,keyword,9,image_28359_2.png,1.8171,0.016,Room#Negative,Room,Negative
+Q13,keyword,10,image_10930_0.png,1.8007,0.016,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q13,image-siglip-nolabels,1,image_4800_0.png,0.1274,0.049,Room#Negative,Room,Negative
+Q13,image-siglip-nolabels,2,image_4800_2.png,0.0937,0.049,Room#Negative,Room,Negative
+Q13,image-siglip-nolabels,3,image_10361_0.png,0.0936,0.049,Room#Neutral; Service#Negative,Room,Negative
+Q13,image-siglip-nolabels,4,image_11757_2.png,0.0918,0.049,Room#Negative; Service#Negative,Room,Negative
+Q13,image-siglip-nolabels,5,image_32430_0.png,0.0914,0.049,Room#Positive,Room,Negative
+Q13,image-siglip-nolabels,6,image_26368_0.png,0.0907,0.049,Room#Negative,Room,Negative
+Q13,image-siglip-nolabels,7,image_24608_0.png,0.0886,0.049,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Room,Negative
+Q13,image-siglip-nolabels,8,image_10938_0.png,0.0885,0.049,Room#Negative; Service#Negative,Room,Negative
+Q13,image-siglip-nolabels,9,image_28119_4.png,0.0878,0.049,Room#Positive; Service#Positive,Room,Negative
+Q13,image-siglip-nolabels,10,image_12600_0.png,0.0869,0.049,Location#Positive; Room#Neutral,Room,Negative
+Q14,image-clip,1,image_5765_3.png,0.2973,0.028,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-clip,2,image_22528_0.png,0.2834,0.028,Room#Negative; Facilities#Positive; Service#Negative; Public_area#Positive,Facilities,Positive
+Q14,image-clip,3,image_31852_0.png,0.2811,0.028,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-clip,4,image_27616_4.png,0.2809,0.028,Food#Neutral; Room#Positive; Facilities#Positive; Service#Negative; Public_area#Neutral,Facilities,Positive
+Q14,image-clip,5,image_24120_1.png,0.2785,0.028,Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-clip,6,image_19852_1.png,0.2783,0.028,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Facilities,Positive
+Q14,image-clip,7,image_7980_0.png,0.274,0.028,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-clip,8,image_7980_3.png,0.2739,0.028,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-clip,9,image_23186_2.png,0.2734,0.028,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-clip,10,image_19347_0.png,0.2733,0.028,Room#Positive; Facilities#Positive; Service#Neutral; Public_area#Negative,Facilities,Positive
+Q14,image-siglip,1,image_24702_0.png,0.0949,0.056,Location#Negative; Food#Neutral; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip,2,image_28303_4.png,0.0931,0.056,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip,3,image_21228_0.png,0.0913,0.056,Food#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip,4,image_28444_4.png,0.0861,0.056,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip,5,image_28459_3.png,0.0852,0.056,Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip,6,image_23799_3.png,0.085,0.056,Food#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip,7,image_5603_0.png,0.0848,0.056,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip,8,image_7459_1.png,0.0841,0.056,Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip,9,image_6306_0.png,0.0834,0.056,Location#Negative; Food#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip,10,image_31852_0.png,0.083,0.056,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-clip,1,image_22467_0.png,0.7515,0.028,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-clip,2,image_28444_0.png,0.7503,0.028,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-clip,3,image_6382_1.png,0.7459,0.028,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-clip,4,image_31852_0.png,0.7413,0.028,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-clip,5,image_7459_0.png,0.7292,0.028,Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-clip,6,image_23186_1.png,0.7221,0.028,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-clip,7,image_22506_2.png,0.7184,0.028,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-clip,8,image_19852_1.png,0.7152,0.028,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Facilities,Positive
+Q14,caption-clip,9,image_2533_0.png,0.7046,0.028,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-clip,10,image_7356_0.png,0.6849,0.028,Food#Negative; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-siglip,1,image_19852_0.png,0.5115,0.053,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Facilities,Positive
+Q14,caption-siglip,2,image_6382_2.png,0.5086,0.053,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-siglip,3,image_2533_2.png,0.4894,0.053,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-siglip,4,image_22467_0.png,0.4345,0.053,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-siglip,5,image_22214_0.png,0.4043,0.053,Facilities#Positive; Service#Positive; Public_area#Neutral,Facilities,Positive
+Q14,caption-siglip,6,image_7220_1.png,0.3953,0.053,Food#Negative; Facilities#Positive; Public_area#Neutral,Facilities,Positive
+Q14,caption-siglip,7,image_28444_1.png,0.3697,0.053,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-siglip,8,image_5603_1.png,0.3413,0.053,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-siglip,9,image_23117_0.png,0.3399,0.053,Food#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,caption-siglip,10,image_27608_2.png,0.3392,0.053,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,keyword,1,image_27373_4.png,1.2083,0.018,Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,keyword,2,image_27608_1.png,1.2044,0.018,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,keyword,3,image_6306_2.png,1.1471,0.018,Location#Negative; Food#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,keyword,4,image_27608_2.png,1.0579,0.018,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,keyword,5,image_24089_0.png,1.0443,0.018,Location#Negative; Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,keyword,6,image_23186_2.png,1.0443,0.018,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,keyword,7,image_6382_3.png,1.0443,0.018,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,keyword,8,image_28303_5.png,1.0311,0.018,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,keyword,9,image_23175_0.png,1.0225,0.018,Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,keyword,10,image_22702_0.png,1.0183,0.018,Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip-nolabels,1,image_7913_1.png,0.0981,0.049,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,Positive
+Q14,image-siglip-nolabels,2,image_23101_0.png,0.096,0.049,Food#Neutral; Service#Negative; Public_area#Negative,Facilities,Positive
+Q14,image-siglip-nolabels,3,image_22806_0.png,0.0959,0.049,Location#Positive; Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip-nolabels,4,image_24702_0.png,0.0949,0.049,Location#Negative; Food#Neutral; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip-nolabels,5,image_19856_0.png,0.0946,0.049,Service#Negative; Public_area#Neutral,Facilities,Positive
+Q14,image-siglip-nolabels,6,image_28303_4.png,0.0931,0.049,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip-nolabels,7,image_21228_0.png,0.0913,0.049,Food#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip-nolabels,8,image_2733_0.png,0.0912,0.049,Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip-nolabels,9,image_5488_1.png,0.0903,0.049,Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Positive
+Q14,image-siglip-nolabels,10,image_19856_1.png,0.0899,0.049,Service#Negative; Public_area#Neutral,Facilities,Positive
+Q15,image-clip,1,image_23101_0.png,0.2619,0.027,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,image-clip,2,image_30639_0.png,0.2563,0.027,Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,image-clip,3,image_94_3.png,0.2497,0.027,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,image-clip,4,image_22315_1.png,0.2475,0.027,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,image-clip,5,image_30639_1.png,0.2473,0.027,Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,image-clip,6,image_94_0.png,0.2447,0.027,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,image-clip,7,image_2138_1.png,0.2426,0.027,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,image-clip,8,image_160_1.png,0.24,0.027,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q15,image-clip,9,image_160_2.png,0.2377,0.027,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q15,image-clip,10,image_10049_0.png,0.2348,0.027,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,image-siglip,1,image_23101_0.png,0.0713,0.055,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,image-siglip,2,image_94_0.png,0.0634,0.055,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,image-siglip,3,image_160_0.png,0.0565,0.055,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q15,image-siglip,4,image_30639_0.png,0.0481,0.055,Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,image-siglip,5,image_160_1.png,0.0467,0.055,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q15,image-siglip,6,image_94_3.png,0.0449,0.055,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,image-siglip,7,image_22088_1.png,0.0447,0.055,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,image-siglip,8,image_22088_0.png,0.0405,0.055,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,image-siglip,9,image_22088_2.png,0.0387,0.055,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,image-siglip,10,image_21605_2.png,0.0267,0.055,Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,caption-clip,1,image_23101_0.png,0.6162,0.027,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,caption-clip,2,image_94_0.png,0.6031,0.027,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,caption-clip,3,image_10049_0.png,0.6002,0.027,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,caption-clip,4,image_22088_0.png,0.5555,0.027,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,caption-clip,5,image_22088_1.png,0.5429,0.027,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,caption-clip,6,image_10049_2.png,0.4905,0.027,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,caption-clip,7,image_2138_0.png,0.4652,0.027,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,caption-clip,8,image_11350_2.png,0.4628,0.027,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,caption-clip,9,image_10049_1.png,0.4492,0.027,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,caption-clip,10,image_30639_0.png,0.434,0.027,Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,caption-siglip,1,image_21605_2.png,0.4205,0.054,Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,caption-siglip,2,image_11350_1.png,0.3637,0.054,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,caption-siglip,3,image_160_2.png,0.2755,0.054,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q15,caption-siglip,4,image_10049_1.png,0.2679,0.054,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,caption-siglip,5,image_94_3.png,0.2398,0.054,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,caption-siglip,6,image_22088_1.png,0.2283,0.054,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,caption-siglip,7,image_19347_1.png,0.2203,0.054,Room#Positive; Facilities#Positive; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q15,caption-siglip,8,image_19347_0.png,0.217,0.054,Room#Positive; Facilities#Positive; Service#Neutral; Public_area#Negative,Public_area,Negative
+Q15,caption-siglip,9,image_22088_0.png,0.206,0.054,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,caption-siglip,10,image_23101_0.png,0.2024,0.054,Food#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,keyword,1,image_21605_2.png,3.3078,0.01,Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,keyword,2,image_21605_0.png,0.0,0.01,Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,keyword,3,image_21605_3.png,0.0,0.01,Room#Negative; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,keyword,4,image_10049_0.png,0.0,0.01,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,keyword,5,image_10049_1.png,0.0,0.01,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,keyword,6,image_10049_2.png,0.0,0.01,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,keyword,7,image_10049_3.png,0.0,0.01,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Public_area,Negative
+Q15,keyword,8,image_8514_0.png,0.0,0.01,Food#Negative; Room#Neutral; Facilities#Positive; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,keyword,9,image_22088_0.png,0.0,0.01,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,keyword,10,image_22088_1.png,0.0,0.01,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Public_area,Negative
+Q15,image-siglip-nolabels,1,image_20969_1.png,0.0926,0.048,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Public_area,Negative
+Q15,image-siglip-nolabels,2,image_26339_1.png,0.0925,0.048,Location#Positive; Public_area#Positive,Public_area,Negative
+Q15,image-siglip-nolabels,3,image_5747_1.png,0.0923,0.048,Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Neutral,Public_area,Negative
+Q15,image-siglip-nolabels,4,image_19856_1.png,0.0876,0.048,Service#Negative; Public_area#Neutral,Public_area,Negative
+Q15,image-siglip-nolabels,5,image_5765_3.png,0.0873,0.048,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Public_area,Negative
+Q15,image-siglip-nolabels,6,image_22806_0.png,0.0865,0.048,Location#Positive; Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Public_area,Negative
+Q15,image-siglip-nolabels,7,image_27537_5.png,0.0796,0.048,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Public_area,Negative
+Q15,image-siglip-nolabels,8,image_26088_0.png,0.077,0.048,Service#Positive; Public_area#Positive,Public_area,Negative
+Q15,image-siglip-nolabels,9,image_28303_4.png,0.0729,0.048,Facilities#Positive; Public_area#Positive,Public_area,Negative
+Q15,image-siglip-nolabels,10,image_7459_0.png,0.0728,0.048,Facilities#Positive; Service#Positive; Public_area#Positive,Public_area,Negative
+Q16,image-clip,1,image_1817_0.png,0.2797,0.026,Food#Positive; Room#Neutral; Service#Positive; Public_area#Positive,Food,Positive
+Q16,image-clip,2,image_7541_0.png,0.2796,0.026,Food#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Positive
+Q16,image-clip,3,image_27537_4.png,0.2792,0.026,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Food,Positive
+Q16,image-clip,4,image_6761_2.png,0.2749,0.026,Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Food,Positive
+Q16,image-clip,5,image_26870_0.png,0.2729,0.026,Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,image-clip,6,image_23117_1.png,0.2727,0.026,Food#Positive; Facilities#Positive; Public_area#Positive,Food,Positive
+Q16,image-clip,7,image_19852_2.png,0.2722,0.026,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Food,Positive
+Q16,image-clip,8,image_8011_0.png,0.2712,0.026,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,image-clip,9,image_23316_0.png,0.2704,0.026,Food#Positive; Room#Positive; Public_area#Positive,Food,Positive
+Q16,image-clip,10,image_30927_2.png,0.2703,0.026,Food#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,image-siglip,1,image_23117_1.png,0.0956,0.054,Food#Positive; Facilities#Positive; Public_area#Positive,Food,Positive
+Q16,image-siglip,2,image_19852_2.png,0.0921,0.054,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Food,Positive
+Q16,image-siglip,3,image_1817_0.png,0.092,0.054,Food#Positive; Room#Neutral; Service#Positive; Public_area#Positive,Food,Positive
+Q16,image-siglip,4,image_26871_0.png,0.0889,0.054,Food#Positive; Service#Positive,Food,Positive
+Q16,image-siglip,5,image_8011_0.png,0.0861,0.054,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,image-siglip,6,image_7541_3.png,0.0855,0.054,Food#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Positive
+Q16,image-siglip,7,image_7844_5.png,0.0855,0.054,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,image-siglip,8,image_5199_0.png,0.0851,0.054,Location#Positive; Food#Positive; Room#Positive; Service#Positive; Public_area#Neutral,Food,Positive
+Q16,image-siglip,9,image_27537_4.png,0.0848,0.054,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Food,Positive
+Q16,image-siglip,10,image_21912_2.png,0.0844,0.054,Food#Positive; Service#Negative; Public_area#Positive,Food,Positive
+Q16,caption-clip,1,image_6382_1.png,0.7496,0.028,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,caption-clip,2,image_22467_0.png,0.7423,0.028,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,caption-clip,3,image_28461_3.png,0.6587,0.028,Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,caption-clip,4,image_21912_1.png,0.6368,0.028,Food#Positive; Service#Negative; Public_area#Positive,Food,Positive
+Q16,caption-clip,5,image_19852_1.png,0.6268,0.028,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Food,Positive
+Q16,caption-clip,6,image_5603_0.png,0.6207,0.028,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,caption-clip,7,image_23337_0.png,0.6198,0.028,Food#Positive; Room#Negative; Service#Positive,Food,Positive
+Q16,caption-clip,8,image_28444_0.png,0.6103,0.028,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,caption-clip,9,image_27537_4.png,0.6077,0.028,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Food,Positive
+Q16,caption-clip,10,image_19852_0.png,0.5919,0.028,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Food,Positive
+Q16,caption-siglip,1,image_19852_0.png,0.47,0.054,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Food,Positive
+Q16,caption-siglip,2,image_6382_2.png,0.4588,0.054,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,caption-siglip,3,image_21912_1.png,0.444,0.054,Food#Positive; Service#Negative; Public_area#Positive,Food,Positive
+Q16,caption-siglip,4,image_19051_0.png,0.3989,0.054,Food#Positive; Room#Positive; Facilities#Neutral; Public_area#Neutral,Food,Positive
+Q16,caption-siglip,5,image_22467_0.png,0.3626,0.054,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,caption-siglip,6,image_26783_1.png,0.3577,0.054,Food#Positive; Public_area#Positive,Food,Positive
+Q16,caption-siglip,7,image_5603_1.png,0.3376,0.054,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,caption-siglip,8,image_23316_0.png,0.3323,0.054,Food#Positive; Room#Positive; Public_area#Positive,Food,Positive
+Q16,caption-siglip,9,image_24024_0.png,0.3302,0.054,Location#Positive; Food#Positive; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Food,Positive
+Q16,caption-siglip,10,image_23117_0.png,0.3189,0.054,Food#Positive; Facilities#Positive; Public_area#Positive,Food,Positive
+Q16,keyword,1,image_27537_4.png,2.8987,0.017,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Food,Positive
+Q16,keyword,2,image_6761_2.png,2.8987,0.017,Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Food,Positive
+Q16,keyword,3,image_5199_0.png,2.8137,0.017,Location#Positive; Food#Positive; Room#Positive; Service#Positive; Public_area#Neutral,Food,Positive
+Q16,keyword,4,image_23993_1.png,2.6,0.017,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Food,Positive
+Q16,keyword,5,image_5603_0.png,2.5883,0.017,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,keyword,6,image_5603_1.png,2.4877,0.017,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,keyword,7,image_7844_4.png,2.4664,0.017,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,keyword,8,image_7541_0.png,2.4454,0.017,Food#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Positive
+Q16,keyword,9,image_23316_0.png,2.4351,0.017,Food#Positive; Room#Positive; Public_area#Positive,Food,Positive
+Q16,keyword,10,image_2185_0.png,2.4146,0.017,Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,image-siglip-nolabels,1,image_22315_0.png,0.0976,0.048,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Positive
+Q16,image-siglip-nolabels,2,image_23117_1.png,0.0956,0.048,Food#Positive; Facilities#Positive; Public_area#Positive,Food,Positive
+Q16,image-siglip-nolabels,3,image_27772_0.png,0.0931,0.048,Food#Negative; Service#Negative,Food,Positive
+Q16,image-siglip-nolabels,4,image_19852_2.png,0.0921,0.048,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Food,Positive
+Q16,image-siglip-nolabels,5,image_1817_0.png,0.092,0.048,Food#Positive; Room#Neutral; Service#Positive; Public_area#Positive,Food,Positive
+Q16,image-siglip-nolabels,6,image_21100_0.png,0.0917,0.048,Food#Negative; Facilities#Negative,Food,Positive
+Q16,image-siglip-nolabels,7,image_26871_0.png,0.0889,0.048,Food#Positive; Service#Positive,Food,Positive
+Q16,image-siglip-nolabels,8,image_5223_0.png,0.0876,0.048,Food#Neutral; Service#Positive; Public_area#Neutral,Food,Positive
+Q16,image-siglip-nolabels,9,image_8011_0.png,0.0861,0.048,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Positive
+Q16,image-siglip-nolabels,10,image_7541_3.png,0.0855,0.048,Food#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Positive
+Q17,image-clip,1,image_11757_1.png,0.3039,0.028,Room#Negative; Service#Negative,Room,Negative
+Q17,image-clip,2,image_11757_0.png,0.2855,0.028,Room#Negative; Service#Negative,Room,Negative
+Q17,image-clip,3,image_10049_0.png,0.2824,0.028,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,Negative
+Q17,image-clip,4,image_10049_1.png,0.2791,0.028,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,Negative
+Q17,image-clip,5,image_4800_1.png,0.2749,0.028,Room#Negative,Room,Negative
+Q17,image-clip,6,image_6958_2.png,0.2719,0.028,Room#Negative; Public_area#Neutral,Room,Negative
+Q17,image-clip,7,image_28359_0.png,0.2715,0.028,Room#Negative,Room,Negative
+Q17,image-clip,8,image_10049_2.png,0.2673,0.028,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,Negative
+Q17,image-clip,9,image_3035_0.png,0.2648,0.028,Room#Negative; Service#Negative,Room,Negative
+Q17,image-clip,10,image_28844_0.png,0.2618,0.028,Room#Negative; Public_area#Positive,Room,Negative
+Q17,image-siglip,1,image_4800_1.png,0.1012,0.055,Room#Negative,Room,Negative
+Q17,image-siglip,2,image_4800_0.png,0.0935,0.055,Room#Negative,Room,Negative
+Q17,image-siglip,3,image_10930_0.png,0.0872,0.055,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q17,image-siglip,4,image_10930_2.png,0.0872,0.055,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q17,image-siglip,5,image_1299_0.png,0.0791,0.055,Room#Negative; Service#Negative,Room,Negative
+Q17,image-siglip,6,image_10938_0.png,0.0756,0.055,Room#Negative; Service#Negative,Room,Negative
+Q17,image-siglip,7,image_4800_2.png,0.0748,0.055,Room#Negative,Room,Negative
+Q17,image-siglip,8,image_21605_2.png,0.073,0.055,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q17,image-siglip,9,image_11757_1.png,0.0712,0.055,Room#Negative; Service#Negative,Room,Negative
+Q17,image-siglip,10,image_33002_0.png,0.0643,0.055,Location#Positive; Food#Positive; Room#Negative; Public_area#Neutral,Room,Negative
+Q17,caption-clip,1,image_20969_0.png,0.7228,0.027,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q17,caption-clip,2,image_28359_2.png,0.6988,0.027,Room#Negative,Room,Negative
+Q17,caption-clip,3,image_10938_0.png,0.6822,0.027,Room#Negative; Service#Negative,Room,Negative
+Q17,caption-clip,4,image_1702_1.png,0.668,0.027,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,Room,Negative
+Q17,caption-clip,5,image_12605_0.png,0.6634,0.027,Room#Negative; Service#Negative,Room,Negative
+Q17,caption-clip,6,image_23186_1.png,0.6579,0.027,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q17,caption-clip,7,image_20969_1.png,0.6403,0.027,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q17,caption-clip,8,image_10049_0.png,0.6391,0.027,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,Negative
+Q17,caption-clip,9,image_31852_0.png,0.6303,0.027,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q17,caption-clip,10,image_6958_1.png,0.6302,0.027,Room#Negative; Public_area#Neutral,Room,Negative
+Q17,caption-siglip,1,image_3035_1.png,0.5422,0.055,Room#Negative; Service#Negative,Room,Negative
+Q17,caption-siglip,2,image_11757_0.png,0.5405,0.055,Room#Negative; Service#Negative,Room,Negative
+Q17,caption-siglip,3,image_28844_1.png,0.524,0.055,Room#Negative; Public_area#Positive,Room,Negative
+Q17,caption-siglip,4,image_28844_0.png,0.4993,0.055,Room#Negative; Public_area#Positive,Room,Negative
+Q17,caption-siglip,5,image_28359_0.png,0.4776,0.055,Room#Negative,Room,Negative
+Q17,caption-siglip,6,image_11757_2.png,0.4652,0.055,Room#Negative; Service#Negative,Room,Negative
+Q17,caption-siglip,7,image_11757_1.png,0.4445,0.055,Room#Negative; Service#Negative,Room,Negative
+Q17,caption-siglip,8,image_10930_0.png,0.4344,0.055,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q17,caption-siglip,9,image_10930_2.png,0.4194,0.055,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q17,caption-siglip,10,image_21605_2.png,0.4078,0.055,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q17,keyword,1,image_3634_0.png,7.3012,0.016,Food#Negative; Room#Negative; Public_area#Neutral,Room,Negative
+Q17,keyword,2,image_11757_0.png,6.1344,0.016,Room#Negative; Service#Negative,Room,Negative
+Q17,keyword,3,image_3035_1.png,6.0104,0.016,Room#Negative; Service#Negative,Room,Negative
+Q17,keyword,4,image_21605_3.png,5.1741,0.016,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q17,keyword,5,image_6958_1.png,4.9763,0.016,Room#Negative; Public_area#Neutral,Room,Negative
+Q17,keyword,6,image_21605_0.png,0.0,0.016,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q17,keyword,7,image_21605_2.png,0.0,0.016,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q17,keyword,8,image_3035_0.png,0.0,0.016,Room#Negative; Service#Negative,Room,Negative
+Q17,keyword,9,image_28844_0.png,0.0,0.016,Room#Negative; Public_area#Positive,Room,Negative
+Q17,keyword,10,image_28844_1.png,0.0,0.016,Room#Negative; Public_area#Positive,Room,Negative
+Q17,image-siglip-nolabels,1,image_4800_1.png,0.1012,0.049,Room#Negative,Room,Negative
+Q17,image-siglip-nolabels,2,image_4800_0.png,0.0935,0.049,Room#Negative,Room,Negative
+Q17,image-siglip-nolabels,3,image_28119_4.png,0.0883,0.049,Room#Positive; Service#Positive,Room,Negative
+Q17,image-siglip-nolabels,4,image_10930_0.png,0.0872,0.049,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q17,image-siglip-nolabels,5,image_10930_2.png,0.0872,0.049,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q17,image-siglip-nolabels,6,image_19347_0.png,0.0857,0.049,Room#Positive; Facilities#Positive; Service#Neutral; Public_area#Negative,Room,Negative
+Q17,image-siglip-nolabels,7,image_1299_0.png,0.0791,0.049,Room#Negative; Service#Negative,Room,Negative
+Q17,image-siglip-nolabels,8,image_10938_0.png,0.0756,0.049,Room#Negative; Service#Negative,Room,Negative
+Q17,image-siglip-nolabels,9,image_4800_2.png,0.0748,0.049,Room#Negative,Room,Negative
+Q17,image-siglip-nolabels,10,image_21605_2.png,0.073,0.049,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q18,image-clip,1,image_21100_0.png,0.2877,0.026,Food#Negative; Facilities#Negative,Food,Negative
+Q18,image-clip,2,image_22315_0.png,0.2788,0.026,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q18,image-clip,3,image_28524_0.png,0.2763,0.026,Food#Negative,Food,Negative
+Q18,image-clip,4,image_26661_0.png,0.2635,0.026,Food#Negative,Food,Negative
+Q18,image-clip,5,image_28389_0.png,0.2632,0.026,Food#Negative; Room#Neutral; Service#Positive,Food,Negative
+Q18,image-clip,6,image_18846_2.png,0.2612,0.026,Food#Negative; Service#Negative,Food,Negative
+Q18,image-clip,7,image_2138_0.png,0.2608,0.026,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q18,image-clip,8,image_22464_0.png,0.2603,0.026,Food#Negative; Facilities#Neutral; Public_area#Positive,Food,Negative
+Q18,image-clip,9,image_6029_0.png,0.2586,0.026,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Food,Negative
+Q18,image-clip,10,image_18846_1.png,0.2582,0.026,Food#Negative; Service#Negative,Food,Negative
+Q18,image-siglip,1,image_22315_0.png,0.0976,0.054,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q18,image-siglip,2,image_27772_0.png,0.0931,0.054,Food#Negative; Service#Negative,Food,Negative
+Q18,image-siglip,3,image_21100_0.png,0.0917,0.054,Food#Negative; Facilities#Negative,Food,Negative
+Q18,image-siglip,4,image_23085_0.png,0.0835,0.054,Food#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Negative
+Q18,image-siglip,5,image_26661_0.png,0.0825,0.054,Food#Negative,Food,Negative
+Q18,image-siglip,6,image_2901_3.png,0.0817,0.054,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q18,image-siglip,7,image_2901_0.png,0.081,0.054,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q18,image-siglip,8,image_2138_0.png,0.0796,0.054,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q18,image-siglip,9,image_28524_0.png,0.0787,0.054,Food#Negative,Food,Negative
+Q18,image-siglip,10,image_22464_0.png,0.0768,0.054,Food#Negative; Facilities#Neutral; Public_area#Positive,Food,Negative
+Q18,caption-clip,1,image_18846_2.png,0.6666,0.026,Food#Negative; Service#Negative,Food,Negative
+Q18,caption-clip,2,image_7356_0.png,0.6645,0.026,Food#Negative; Facilities#Positive; Public_area#Positive,Food,Negative
+Q18,caption-clip,3,image_1968_0.png,0.6023,0.026,Food#Negative; Room#Negative; Facilities#Negative; Service#Positive,Food,Negative
+Q18,caption-clip,4,image_6029_0.png,0.5868,0.026,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Food,Negative
+Q18,caption-clip,5,image_20641_1.png,0.5313,0.026,Food#Negative; Facilities#Negative; Public_area#Positive,Food,Negative
+Q18,caption-clip,6,image_11350_2.png,0.4959,0.026,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q18,caption-clip,7,image_28389_0.png,0.464,0.026,Food#Negative; Room#Neutral; Service#Positive,Food,Negative
+Q18,caption-clip,8,image_18846_0.png,0.4619,0.026,Food#Negative; Service#Negative,Food,Negative
+Q18,caption-clip,9,image_21467_0.png,0.4569,0.026,Food#Negative; Room#Positive; Service#Positive; Public_area#Positive,Food,Negative
+Q18,caption-clip,10,image_2901_3.png,0.4493,0.026,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q18,caption-siglip,1,image_11350_1.png,0.3807,0.055,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q18,caption-siglip,2,image_7220_1.png,0.3444,0.055,Food#Negative; Facilities#Positive; Public_area#Neutral,Food,Negative
+Q18,caption-siglip,3,image_2901_3.png,0.3143,0.055,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q18,caption-siglip,4,image_26661_0.png,0.287,0.055,Food#Negative,Food,Negative
+Q18,caption-siglip,5,image_2901_2.png,0.2408,0.055,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q18,caption-siglip,6,image_28524_0.png,0.2405,0.055,Food#Negative,Food,Negative
+Q18,caption-siglip,7,image_7220_0.png,0.2263,0.055,Food#Negative; Facilities#Positive; Public_area#Neutral,Food,Negative
+Q18,caption-siglip,8,image_27772_0.png,0.2092,0.055,Food#Negative; Service#Negative,Food,Negative
+Q18,caption-siglip,9,image_3634_0.png,0.2079,0.055,Food#Negative; Room#Negative; Public_area#Neutral,Food,Negative
+Q18,caption-siglip,10,image_23085_2.png,0.2067,0.055,Food#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Negative
+Q18,keyword,1,image_18846_0.png,2.6725,0.011,Food#Negative; Service#Negative,Food,Negative
+Q18,keyword,2,image_18846_1.png,2.5883,0.011,Food#Negative; Service#Negative,Food,Negative
+Q18,keyword,3,image_18846_2.png,2.5539,0.011,Food#Negative; Service#Negative,Food,Negative
+Q18,keyword,4,image_21100_0.png,2.5204,0.011,Food#Negative; Facilities#Negative,Food,Negative
+Q18,keyword,5,image_2901_1.png,2.4985,0.011,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q18,keyword,6,image_23085_0.png,2.477,0.011,Food#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Negative
+Q18,keyword,7,image_22464_0.png,2.4454,0.011,Food#Negative; Facilities#Neutral; Public_area#Positive,Food,Negative
+Q18,keyword,8,image_28389_0.png,2.4248,0.011,Food#Negative; Room#Neutral; Service#Positive,Food,Negative
+Q18,keyword,9,image_27772_0.png,2.3945,0.011,Food#Negative; Service#Negative,Food,Negative
+Q18,keyword,10,image_11350_2.png,1.959,0.011,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q18,image-siglip-nolabels,1,image_22315_0.png,0.0976,0.048,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q18,image-siglip-nolabels,2,image_23117_1.png,0.0956,0.048,Food#Positive; Facilities#Positive; Public_area#Positive,Food,Negative
+Q18,image-siglip-nolabels,3,image_27772_0.png,0.0931,0.048,Food#Negative; Service#Negative,Food,Negative
+Q18,image-siglip-nolabels,4,image_19852_2.png,0.0921,0.048,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Food,Negative
+Q18,image-siglip-nolabels,5,image_1817_0.png,0.092,0.048,Food#Positive; Room#Neutral; Service#Positive; Public_area#Positive,Food,Negative
+Q18,image-siglip-nolabels,6,image_21100_0.png,0.0917,0.048,Food#Negative; Facilities#Negative,Food,Negative
+Q18,image-siglip-nolabels,7,image_26871_0.png,0.0889,0.048,Food#Positive; Service#Positive,Food,Negative
+Q18,image-siglip-nolabels,8,image_5223_0.png,0.0876,0.048,Food#Neutral; Service#Positive; Public_area#Neutral,Food,Negative
+Q18,image-siglip-nolabels,9,image_8011_0.png,0.0861,0.048,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Negative
+Q18,image-siglip-nolabels,10,image_7541_3.png,0.0855,0.048,Food#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q19,image-clip,1,image_19752_0.png,0.289,0.026,Room#Positive; Facilities#Positive; Service#Positive,Facilities,Positive
+Q19,image-clip,2,image_22309_0.png,0.2835,0.026,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-clip,3,image_9403_0.png,0.282,0.026,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-clip,4,image_22528_0.png,0.277,0.026,Room#Negative; Facilities#Positive; Service#Negative; Public_area#Positive,Facilities,Positive
+Q19,image-clip,5,image_22400_1.png,0.2754,0.026,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-clip,6,image_21228_0.png,0.2728,0.026,Food#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-clip,7,image_5772_0.png,0.2727,0.026,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-clip,8,image_24120_0.png,0.2708,0.026,Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-clip,9,image_31852_1.png,0.2688,0.026,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-clip,10,image_8011_2.png,0.2687,0.026,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip,1,image_5765_2.png,0.0932,0.053,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip,2,image_2533_0.png,0.0897,0.053,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip,3,image_6382_3.png,0.0878,0.053,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip,4,image_22528_1.png,0.0866,0.053,Room#Negative; Facilities#Positive; Service#Negative; Public_area#Positive,Facilities,Positive
+Q19,image-siglip,5,image_5772_0.png,0.0865,0.053,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip,6,image_22400_1.png,0.0848,0.053,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip,7,image_27608_2.png,0.084,0.053,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip,8,image_6382_2.png,0.0798,0.053,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip,9,image_28444_4.png,0.0791,0.053,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip,10,image_24089_0.png,0.0788,0.053,Location#Negative; Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-clip,1,image_6382_1.png,0.676,0.026,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-clip,2,image_24120_0.png,0.6666,0.026,Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-clip,3,image_26299_0.png,0.6541,0.026,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-clip,4,image_21038_0.png,0.6309,0.026,Location#Negative; Food#Neutral; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-clip,5,image_22467_0.png,0.6291,0.026,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-clip,6,image_2533_0.png,0.6229,0.026,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-clip,7,image_22214_0.png,0.5943,0.026,Facilities#Positive; Service#Positive; Public_area#Neutral,Facilities,Positive
+Q19,caption-clip,8,image_22235_0.png,0.5912,0.026,Location#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-clip,9,image_19852_0.png,0.5902,0.026,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Facilities,Positive
+Q19,caption-clip,10,image_22400_0.png,0.5811,0.026,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-siglip,1,image_6382_2.png,0.5824,0.054,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-siglip,2,image_19852_0.png,0.5666,0.054,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Facilities,Positive
+Q19,caption-siglip,3,image_2533_2.png,0.5159,0.054,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-siglip,4,image_7220_1.png,0.4728,0.054,Food#Negative; Facilities#Positive; Public_area#Neutral,Facilities,Positive
+Q19,caption-siglip,5,image_22214_0.png,0.4694,0.054,Facilities#Positive; Service#Positive; Public_area#Neutral,Facilities,Positive
+Q19,caption-siglip,6,image_27608_2.png,0.4439,0.054,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-siglip,7,image_23117_0.png,0.4392,0.054,Food#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-siglip,8,image_5765_2.png,0.4181,0.054,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-siglip,9,image_9403_0.png,0.3966,0.054,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,caption-siglip,10,image_28459_1.png,0.3708,0.054,Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,keyword,1,image_5765_0.png,7.8512,0.017,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,keyword,2,image_5765_2.png,5.8339,0.017,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,keyword,3,image_31852_0.png,0.0,0.017,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,keyword,4,image_31852_1.png,0.0,0.017,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,keyword,5,image_28444_0.png,0.0,0.017,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,keyword,6,image_28444_1.png,0.0,0.017,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,keyword,7,image_28444_4.png,0.0,0.017,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,keyword,8,image_28444_5.png,0.0,0.017,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,keyword,9,image_7980_0.png,0.0,0.017,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,keyword,10,image_7980_1.png,0.0,0.017,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip-nolabels,1,image_5765_2.png,0.0932,0.047,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip-nolabels,2,image_2533_0.png,0.0897,0.047,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip-nolabels,3,image_6382_3.png,0.0878,0.047,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip-nolabels,4,image_22528_1.png,0.0866,0.047,Room#Negative; Facilities#Positive; Service#Negative; Public_area#Positive,Facilities,Positive
+Q19,image-siglip-nolabels,5,image_5772_0.png,0.0865,0.047,Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip-nolabels,6,image_26607_2.png,0.0856,0.047,Location#Positive; Room#Neutral; Facilities#Negative; Public_area#Positive,Facilities,Positive
+Q19,image-siglip-nolabels,7,image_6233_0.png,0.0853,0.047,Location#Positive; Room#Neutral; Facilities#Negative; Public_area#Neutral,Facilities,Positive
+Q19,image-siglip-nolabels,8,image_22400_1.png,0.0848,0.047,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip-nolabels,9,image_27608_2.png,0.084,0.047,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,Positive
+Q19,image-siglip-nolabels,10,image_22088_0.png,0.084,0.047,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Facilities,Positive
+Q20,image-clip,1,image_4800_1.png,0.307,0.026,Room#Negative,Room,Negative
+Q20,image-clip,2,image_11757_1.png,0.2891,0.026,Room#Negative; Service#Negative,Room,Negative
+Q20,image-clip,3,image_10049_0.png,0.281,0.026,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,Negative
+Q20,image-clip,4,image_6958_2.png,0.2795,0.026,Room#Negative; Public_area#Neutral,Room,Negative
+Q20,image-clip,5,image_9753_0.png,0.2773,0.026,Room#Negative,Room,Negative
+Q20,image-clip,6,image_11757_0.png,0.2721,0.026,Room#Negative; Service#Negative,Room,Negative
+Q20,image-clip,7,image_10049_2.png,0.2699,0.026,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,Negative
+Q20,image-clip,8,image_21605_0.png,0.2657,0.026,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q20,image-clip,9,image_11757_2.png,0.2634,0.026,Room#Negative; Service#Negative,Room,Negative
+Q20,image-clip,10,image_10049_1.png,0.2625,0.026,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,Negative
+Q20,image-siglip,1,image_4800_1.png,0.1051,0.053,Room#Negative,Room,Negative
+Q20,image-siglip,2,image_10049_2.png,0.083,0.053,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,Negative
+Q20,image-siglip,3,image_6958_2.png,0.083,0.053,Room#Negative; Public_area#Neutral,Room,Negative
+Q20,image-siglip,4,image_6958_0.png,0.0811,0.053,Room#Negative; Public_area#Neutral,Room,Negative
+Q20,image-siglip,5,image_4800_0.png,0.0777,0.053,Room#Negative,Room,Negative
+Q20,image-siglip,6,image_10049_3.png,0.0723,0.053,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,Negative
+Q20,image-siglip,7,image_11757_2.png,0.0662,0.053,Room#Negative; Service#Negative,Room,Negative
+Q20,image-siglip,8,image_9753_0.png,0.0641,0.053,Room#Negative,Room,Negative
+Q20,image-siglip,9,image_10930_0.png,0.0583,0.053,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q20,image-siglip,10,image_10930_2.png,0.0583,0.053,Room#Negative; Facilities#Negative; Service#Negative,Room,Negative
+Q20,caption-clip,1,image_20969_0.png,0.7237,0.027,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q20,caption-clip,2,image_28359_2.png,0.7067,0.027,Room#Negative,Room,Negative
+Q20,caption-clip,3,image_1702_1.png,0.6915,0.027,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,Room,Negative
+Q20,caption-clip,4,image_10938_0.png,0.6559,0.027,Room#Negative; Service#Negative,Room,Negative
+Q20,caption-clip,5,image_20969_1.png,0.6555,0.027,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,Room,Negative
+Q20,caption-clip,6,image_6958_1.png,0.6168,0.027,Room#Negative; Public_area#Neutral,Room,Negative
+Q20,caption-clip,7,image_23186_1.png,0.6144,0.027,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q20,caption-clip,8,image_10049_0.png,0.607,0.027,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,Negative
+Q20,caption-clip,9,image_12605_0.png,0.6034,0.027,Room#Negative; Service#Negative,Room,Negative
+Q20,caption-clip,10,image_23186_0.png,0.5934,0.027,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q20,caption-siglip,1,image_3035_1.png,0.5079,0.055,Room#Negative; Service#Negative,Room,Negative
+Q20,caption-siglip,2,image_28844_1.png,0.4764,0.055,Room#Negative; Public_area#Positive,Room,Negative
+Q20,caption-siglip,3,image_28844_0.png,0.4452,0.055,Room#Negative; Public_area#Positive,Room,Negative
+Q20,caption-siglip,4,image_11757_0.png,0.4249,0.055,Room#Negative; Service#Negative,Room,Negative
+Q20,caption-siglip,5,image_21605_2.png,0.3865,0.055,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q20,caption-siglip,6,image_6958_0.png,0.3774,0.055,Room#Negative; Public_area#Neutral,Room,Negative
+Q20,caption-siglip,7,image_6958_1.png,0.3651,0.055,Room#Negative; Public_area#Neutral,Room,Negative
+Q20,caption-siglip,8,image_11757_2.png,0.3567,0.055,Room#Negative; Service#Negative,Room,Negative
+Q20,caption-siglip,9,image_4800_1.png,0.3545,0.055,Room#Negative,Room,Negative
+Q20,caption-siglip,10,image_27537_5.png,0.3386,0.055,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Room,Negative
+Q20,keyword,1,image_21605_0.png,0.0,0.015,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q20,keyword,2,image_21605_2.png,0.0,0.015,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q20,keyword,3,image_21605_3.png,0.0,0.015,Room#Negative; Service#Negative; Public_area#Negative,Room,Negative
+Q20,keyword,4,image_3035_0.png,0.0,0.015,Room#Negative; Service#Negative,Room,Negative
+Q20,keyword,5,image_3035_1.png,0.0,0.015,Room#Negative; Service#Negative,Room,Negative
+Q20,keyword,6,image_28844_0.png,0.0,0.015,Room#Negative; Public_area#Positive,Room,Negative
+Q20,keyword,7,image_28844_1.png,0.0,0.015,Room#Negative; Public_area#Positive,Room,Negative
+Q20,keyword,8,image_28134_1.png,0.0,0.015,Room#Negative; Service#Negative,Room,Negative
+Q20,keyword,9,image_4512_0.png,0.0,0.015,Room#Negative; Service#Positive,Room,Negative
+Q20,keyword,10,image_4512_1.png,0.0,0.015,Room#Negative; Service#Positive,Room,Negative
+Q20,image-siglip-nolabels,1,image_4800_1.png,0.1051,0.053,Room#Negative,Room,Negative
+Q20,image-siglip-nolabels,2,image_28119_3.png,0.0935,0.053,Room#Positive; Service#Positive,Room,Negative
+Q20,image-siglip-nolabels,3,image_29480_2.png,0.0895,0.053,Location#Positive; Room#Positive; Service#Positive; Public_area#Positive,Room,Negative
+Q20,image-siglip-nolabels,4,image_7838_2.png,0.0859,0.053,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Room,Negative
+Q20,image-siglip-nolabels,5,image_24608_0.png,0.0858,0.053,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Room,Negative
+Q20,image-siglip-nolabels,6,image_10049_2.png,0.083,0.053,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Room,Negative
+Q20,image-siglip-nolabels,7,image_6958_2.png,0.083,0.053,Room#Negative; Public_area#Neutral,Room,Negative
+Q20,image-siglip-nolabels,8,image_6958_0.png,0.0811,0.053,Room#Negative; Public_area#Neutral,Room,Negative
+Q20,image-siglip-nolabels,9,image_9832_3.png,0.0805,0.053,Location#Positive; Room#Positive; Public_area#Positive,Room,Negative
+Q20,image-siglip-nolabels,10,image_23183_1.png,0.0783,0.053,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Room,Negative
+Q21,image-clip,1,image_160_1.png,0.2783,0.052,Location#Positive; Food#Neutral; Room#Negative; Facilities#Negative; Service#Neutral; Public_area#Negative,,Positive
+Q21,image-clip,2,image_6773_1.png,0.2764,0.052,Location#Positive; Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-clip,3,image_7220_1.png,0.2702,0.052,Food#Negative; Facilities#Positive; Public_area#Neutral,,Positive
+Q21,image-clip,4,image_28837_3.png,0.2685,0.052,Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-clip,5,image_24852_1.png,0.2684,0.052,Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-clip,6,image_21038_1.png,0.2684,0.052,Location#Negative; Food#Neutral; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-clip,7,image_1993_2.png,0.2677,0.052,Location#Positive; Food#Neutral; Service#Positive; Public_area#Positive,,Positive
+Q21,image-clip,8,image_2392_0.png,0.2654,0.052,Location#Positive; Room#Positive; Service#Positive; Public_area#Neutral,,Positive
+Q21,image-clip,9,image_20115_1.png,0.2652,0.052,Location#Positive; Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-clip,10,image_25580_0.png,0.265,0.052,Room#Positive; Public_area#Positive,,Positive
+Q21,image-siglip,1,image_1993_2.png,0.1095,0.079,Location#Positive; Food#Neutral; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip,2,image_5097_1.png,0.1056,0.079,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip,3,image_21038_1.png,0.1017,0.079,Location#Negative; Food#Neutral; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip,4,image_28837_3.png,0.0983,0.079,Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip,5,image_28594_0.png,0.0949,0.079,Food#Neutral; Room#Positive; Public_area#Positive,,Positive
+Q21,image-siglip,6,image_5097_0.png,0.0946,0.079,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip,7,image_2533_3.png,0.0934,0.079,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip,8,image_20115_1.png,0.0932,0.079,Location#Positive; Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip,9,image_5473_1.png,0.0927,0.079,Food#Neutral; Public_area#Positive,,Positive
+Q21,image-siglip,10,image_28461_5.png,0.0893,0.079,Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,caption-clip,1,image_6382_1.png,0.7353,0.051,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,caption-clip,2,image_28461_3.png,0.7125,0.051,Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,caption-clip,3,image_22467_0.png,0.71,0.051,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,caption-clip,4,image_29307_0.png,0.7068,0.051,Room#Positive,,Positive
+Q21,caption-clip,5,image_5488_0.png,0.7032,0.051,Facilities#Negative; Service#Positive; Public_area#Positive,,Positive
+Q21,caption-clip,6,image_19790_0.png,0.6975,0.051,Room#Neutral; Public_area#Positive,,Positive
+Q21,caption-clip,7,image_2533_0.png,0.6946,0.051,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,caption-clip,8,image_27183_2.png,0.6917,0.051,Location#Positive; Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,,Positive
+Q21,caption-clip,9,image_9832_0.png,0.6898,0.051,Location#Positive; Room#Positive; Public_area#Positive,,Positive
+Q21,caption-clip,10,image_1702_1.png,0.6852,0.051,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,,Positive
+Q21,caption-siglip,1,image_7838_2.png,0.6169,0.077,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,,Positive
+Q21,caption-siglip,2,image_2533_2.png,0.5402,0.077,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,caption-siglip,3,image_19852_0.png,0.5164,0.077,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,,Positive
+Q21,caption-siglip,4,image_6382_2.png,0.5052,0.077,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,caption-siglip,5,image_19051_0.png,0.4653,0.077,Food#Positive; Room#Positive; Facilities#Neutral; Public_area#Neutral,,Positive
+Q21,caption-siglip,6,image_28844_1.png,0.4566,0.077,Room#Negative; Public_area#Positive,,Positive
+Q21,caption-siglip,7,image_21912_1.png,0.4558,0.077,Food#Positive; Service#Negative; Public_area#Positive,,Positive
+Q21,caption-siglip,8,image_7913_0.png,0.4477,0.077,Room#Positive; Facilities#Negative; Public_area#Positive,,Positive
+Q21,caption-siglip,9,image_22365_0.png,0.4387,0.077,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive; Public_area#Positive,,Positive
+Q21,caption-siglip,10,image_7220_1.png,0.4353,0.077,Food#Negative; Facilities#Positive; Public_area#Neutral,,Positive
+Q21,keyword,1,image_7459_2.png,5.0252,0.064,Facilities#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,keyword,2,image_20950_2.png,4.5334,0.064,Food#Positive; Room#Positive; Facilities#Neutral; Service#Neutral; Public_area#Positive,,Positive
+Q21,keyword,3,image_3821_0.png,0.0,0.064,Room#Positive; Facilities#Negative; Public_area#Positive,,Positive
+Q21,keyword,4,image_28844_0.png,0.0,0.064,Room#Negative; Public_area#Positive,,Positive
+Q21,keyword,5,image_28844_1.png,0.0,0.064,Room#Negative; Public_area#Positive,,Positive
+Q21,keyword,6,image_4512_0.png,0.0,0.064,Room#Negative; Service#Positive,,Positive
+Q21,keyword,7,image_4512_1.png,0.0,0.064,Room#Negative; Service#Positive,,Positive
+Q21,keyword,8,image_10049_0.png,0.0,0.064,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,,Positive
+Q21,keyword,9,image_10049_1.png,0.0,0.064,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,,Positive
+Q21,keyword,10,image_10049_2.png,0.0,0.064,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,,Positive
+Q21,image-siglip-nolabels,1,image_1993_2.png,0.1095,0.048,Location#Positive; Food#Neutral; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip-nolabels,2,image_5097_1.png,0.1056,0.048,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip-nolabels,3,image_21038_1.png,0.1017,0.048,Location#Negative; Food#Neutral; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip-nolabels,4,image_28837_3.png,0.0983,0.048,Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip-nolabels,5,image_28594_0.png,0.0949,0.048,Food#Neutral; Room#Positive; Public_area#Positive,,Positive
+Q21,image-siglip-nolabels,6,image_5097_0.png,0.0946,0.048,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip-nolabels,7,image_2533_3.png,0.0934,0.048,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip-nolabels,8,image_20115_1.png,0.0932,0.048,Location#Positive; Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q21,image-siglip-nolabels,9,image_5473_1.png,0.0927,0.048,Food#Neutral; Public_area#Positive,,Positive
+Q21,image-siglip-nolabels,10,image_28461_5.png,0.0893,0.048,Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,,Positive
+Q22,image-clip,1,image_6029_0.png,0.2944,0.026,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Food,Negative
+Q22,image-clip,2,image_2138_0.png,0.2781,0.026,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,image-clip,3,image_26661_0.png,0.2753,0.026,Food#Negative,Food,Negative
+Q22,image-clip,4,image_28524_0.png,0.2718,0.026,Food#Negative,Food,Negative
+Q22,image-clip,5,image_22315_0.png,0.2711,0.026,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,image-clip,6,image_21100_0.png,0.2684,0.026,Food#Negative; Facilities#Negative,Food,Negative
+Q22,image-clip,7,image_20641_2.png,0.2638,0.026,Food#Negative; Facilities#Negative; Public_area#Positive,Food,Negative
+Q22,image-clip,8,image_2901_2.png,0.2635,0.026,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q22,image-clip,9,image_22315_1.png,0.2576,0.026,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,image-clip,10,image_21467_1.png,0.2571,0.026,Food#Negative; Room#Positive; Service#Positive; Public_area#Positive,Food,Negative
+Q22,image-siglip,1,image_2138_0.png,0.1065,0.053,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,image-siglip,2,image_22315_0.png,0.1042,0.053,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,image-siglip,3,image_26661_0.png,0.0969,0.053,Food#Negative,Food,Negative
+Q22,image-siglip,4,image_6029_0.png,0.0957,0.053,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Food,Negative
+Q22,image-siglip,5,image_20641_2.png,0.0952,0.053,Food#Negative; Facilities#Negative; Public_area#Positive,Food,Negative
+Q22,image-siglip,6,image_27772_0.png,0.0939,0.053,Food#Negative; Service#Negative,Food,Negative
+Q22,image-siglip,7,image_28524_0.png,0.0862,0.053,Food#Negative,Food,Negative
+Q22,image-siglip,8,image_7356_0.png,0.0842,0.053,Food#Negative; Facilities#Positive; Public_area#Positive,Food,Negative
+Q22,image-siglip,9,image_21100_0.png,0.0755,0.053,Food#Negative; Facilities#Negative,Food,Negative
+Q22,image-siglip,10,image_2901_0.png,0.0753,0.053,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q22,caption-clip,1,image_7356_0.png,0.6754,0.026,Food#Negative; Facilities#Positive; Public_area#Positive,Food,Negative
+Q22,caption-clip,2,image_18846_2.png,0.6619,0.026,Food#Negative; Service#Negative,Food,Negative
+Q22,caption-clip,3,image_6029_0.png,0.6393,0.026,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Food,Negative
+Q22,caption-clip,4,image_1968_0.png,0.6205,0.026,Food#Negative; Room#Negative; Facilities#Negative; Service#Positive,Food,Negative
+Q22,caption-clip,5,image_20641_1.png,0.5169,0.026,Food#Negative; Facilities#Negative; Public_area#Positive,Food,Negative
+Q22,caption-clip,6,image_28389_0.png,0.4964,0.026,Food#Negative; Room#Neutral; Service#Positive,Food,Negative
+Q22,caption-clip,7,image_11350_2.png,0.4845,0.026,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,caption-clip,8,image_2138_0.png,0.477,0.026,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,caption-clip,9,image_2901_3.png,0.4718,0.026,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q22,caption-clip,10,image_18846_0.png,0.4692,0.026,Food#Negative; Service#Negative,Food,Negative
+Q22,caption-siglip,1,image_11350_1.png,0.425,0.058,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,caption-siglip,2,image_7220_1.png,0.353,0.058,Food#Negative; Facilities#Positive; Public_area#Neutral,Food,Negative
+Q22,caption-siglip,3,image_2901_3.png,0.3386,0.058,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q22,caption-siglip,4,image_26661_0.png,0.3186,0.058,Food#Negative,Food,Negative
+Q22,caption-siglip,5,image_2901_2.png,0.2978,0.058,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q22,caption-siglip,6,image_28524_0.png,0.262,0.058,Food#Negative,Food,Negative
+Q22,caption-siglip,7,image_11350_0.png,0.2422,0.058,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,caption-siglip,8,image_7356_0.png,0.2387,0.058,Food#Negative; Facilities#Positive; Public_area#Positive,Food,Negative
+Q22,caption-siglip,9,image_20641_2.png,0.2372,0.058,Food#Negative; Facilities#Negative; Public_area#Positive,Food,Negative
+Q22,caption-siglip,10,image_7220_0.png,0.2322,0.058,Food#Negative; Facilities#Positive; Public_area#Neutral,Food,Negative
+Q22,keyword,1,image_6029_0.png,3.3366,0.012,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Food,Negative
+Q22,keyword,2,image_2138_0.png,3.3076,0.012,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,keyword,3,image_2901_1.png,2.3976,0.012,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q22,keyword,4,image_11350_1.png,2.3678,0.012,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,keyword,5,image_2901_2.png,2.3532,0.012,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q22,keyword,6,image_22315_0.png,2.3388,0.012,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,keyword,7,image_11350_0.png,2.3245,0.012,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,keyword,8,image_2901_3.png,2.2293,0.012,Food#Negative; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Food,Negative
+Q22,keyword,9,image_26661_0.png,2.2293,0.012,Food#Negative,Food,Negative
+Q22,keyword,10,image_3634_0.png,0.0,0.012,Food#Negative; Room#Negative; Public_area#Neutral,Food,Negative
+Q22,image-siglip-nolabels,1,image_27616_1.png,0.1163,0.055,Food#Neutral; Room#Positive; Facilities#Positive; Service#Negative; Public_area#Neutral,Food,Negative
+Q22,image-siglip-nolabels,2,image_27537_4.png,0.1122,0.055,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Food,Negative
+Q22,image-siglip-nolabels,3,image_8774_1.png,0.1119,0.055,Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Negative
+Q22,image-siglip-nolabels,4,image_21460_0.png,0.1077,0.055,Food#Neutral; Room#Positive; Service#Positive; Public_area#Neutral,Food,Negative
+Q22,image-siglip-nolabels,5,image_8011_0.png,0.1076,0.055,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Negative
+Q22,image-siglip-nolabels,6,image_19_0.png,0.107,0.055,Location#Negative; Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,Food,Negative
+Q22,image-siglip-nolabels,7,image_2138_0.png,0.1065,0.055,Location#Negative; Food#Negative; Room#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,image-siglip-nolabels,8,image_23316_0.png,0.1061,0.055,Food#Positive; Room#Positive; Public_area#Positive,Food,Negative
+Q22,image-siglip-nolabels,9,image_22315_0.png,0.1042,0.055,Food#Negative; Room#Negative; Facilities#Negative; Service#Negative; Public_area#Negative,Food,Negative
+Q22,image-siglip-nolabels,10,image_7909_1.png,0.1037,0.055,Location#Positive; Food#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Food,Negative
+Q23,image-clip,1,image_2670_0.png,0.2902,0.028,Food#Negative; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,,Negative
+Q23,image-clip,2,image_27373_4.png,0.2853,0.028,Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,,Negative
+Q23,image-clip,3,image_11800_0.png,0.2787,0.028,Service#Negative; Public_area#Neutral,,Negative
+Q23,image-clip,4,image_22528_0.png,0.2779,0.028,Room#Negative; Facilities#Positive; Service#Negative; Public_area#Positive,,Negative
+Q23,image-clip,5,image_5488_1.png,0.2765,0.028,Facilities#Negative; Service#Positive; Public_area#Positive,,Negative
+Q23,image-clip,6,image_22400_1.png,0.2752,0.028,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,Negative
+Q23,image-clip,7,image_27616_4.png,0.2733,0.028,Food#Neutral; Room#Positive; Facilities#Positive; Service#Negative; Public_area#Neutral,,Negative
+Q23,image-clip,8,image_22405_0.png,0.2731,0.028,Location#Negative; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Neutral,,Negative
+Q23,image-clip,9,image_23186_2.png,0.273,0.028,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,,Negative
+Q23,image-clip,10,image_94_3.png,0.2711,0.028,Food#Neutral; Room#Neutral; Service#Positive; Public_area#Negative,,Negative
+Q23,image-siglip,1,image_3547_3.png,0.0981,0.053,Food#Neutral; Room#Neutral; Facilities#Neutral; Service#Negative; Public_area#Neutral,,Negative
+Q23,image-siglip,2,image_5488_1.png,0.0945,0.053,Facilities#Negative; Service#Positive; Public_area#Positive,,Negative
+Q23,image-siglip,3,image_2670_0.png,0.094,0.053,Food#Negative; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,,Negative
+Q23,image-siglip,4,image_30639_0.png,0.0896,0.053,Service#Positive; Public_area#Negative,,Negative
+Q23,image-siglip,5,image_24089_0.png,0.0894,0.053,Location#Negative; Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,,Negative
+Q23,image-siglip,6,image_23186_2.png,0.089,0.053,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,,Negative
+Q23,image-siglip,7,image_1876_2.png,0.089,0.053,Location#Negative; Service#Positive; Public_area#Positive,,Negative
+Q23,image-siglip,8,image_19856_0.png,0.0889,0.053,Service#Negative; Public_area#Neutral,,Negative
+Q23,image-siglip,9,image_23101_0.png,0.0885,0.053,Food#Neutral; Service#Negative; Public_area#Negative,,Negative
+Q23,image-siglip,10,image_24702_0.png,0.0883,0.053,Location#Negative; Food#Neutral; Facilities#Positive; Public_area#Positive,,Negative
+Q23,caption-clip,1,image_20969_0.png,0.7881,0.026,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,,Negative
+Q23,caption-clip,2,image_1702_1.png,0.7383,0.026,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,,Negative
+Q23,caption-clip,3,image_20969_1.png,0.7379,0.026,Food#Neutral; Room#Negative; Service#Negative; Public_area#Neutral,,Negative
+Q23,caption-clip,4,image_10938_0.png,0.7345,0.026,Room#Negative; Service#Negative,,Negative
+Q23,caption-clip,5,image_25839_0.png,0.7179,0.026,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive,,Negative
+Q23,caption-clip,6,image_23186_1.png,0.7138,0.026,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,,Negative
+Q23,caption-clip,7,image_12605_0.png,0.7075,0.026,Room#Negative; Service#Negative,,Negative
+Q23,caption-clip,8,image_7913_0.png,0.7011,0.026,Room#Positive; Facilities#Negative; Public_area#Positive,,Negative
+Q23,caption-clip,9,image_2533_0.png,0.6984,0.026,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,Negative
+Q23,caption-clip,10,image_5488_0.png,0.692,0.026,Facilities#Negative; Service#Positive; Public_area#Positive,,Negative
+Q23,caption-siglip,1,image_7913_0.png,0.5164,0.053,Room#Positive; Facilities#Negative; Public_area#Positive,,Negative
+Q23,caption-siglip,2,image_21912_1.png,0.4828,0.053,Food#Positive; Service#Negative; Public_area#Positive,,Negative
+Q23,caption-siglip,3,image_2533_2.png,0.4804,0.053,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,,Negative
+Q23,caption-siglip,4,image_28844_1.png,0.4756,0.053,Room#Negative; Public_area#Positive,,Negative
+Q23,caption-siglip,5,image_3035_1.png,0.474,0.053,Room#Negative; Service#Negative,,Negative
+Q23,caption-siglip,6,image_22365_0.png,0.4568,0.053,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive; Public_area#Positive,,Negative
+Q23,caption-siglip,7,image_28844_0.png,0.4307,0.053,Room#Negative; Public_area#Positive,,Negative
+Q23,caption-siglip,8,image_95_2.png,0.3953,0.053,Facilities#Negative; Service#Positive,,Negative
+Q23,caption-siglip,9,image_7220_1.png,0.3948,0.053,Food#Negative; Facilities#Positive; Public_area#Neutral,,Negative
+Q23,caption-siglip,10,image_1820_1.png,0.3814,0.053,Location#Positive; Food#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,,Negative
+Q23,keyword,1,image_33002_0.png,1.2667,0.027,Location#Positive; Food#Positive; Room#Negative; Public_area#Neutral,,Negative
+Q23,keyword,2,image_999_0.png,1.2639,0.027,Food#Positive; Room#Negative; Service#Positive; Public_area#Positive,,Negative
+Q23,keyword,3,image_27373_4.png,1.2083,0.027,Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,,Negative
+Q23,keyword,4,image_1702_0.png,1.1773,0.027,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,,Negative
+Q23,keyword,5,image_6306_2.png,1.1471,0.027,Location#Negative; Food#Positive; Facilities#Positive; Public_area#Positive,,Negative
+Q23,keyword,6,image_2150_0.png,1.1418,0.027,Location#Negative; Food#Negative; Service#Positive; Public_area#Positive,,Negative
+Q23,keyword,7,image_22405_0.png,1.1312,0.027,Location#Negative; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Neutral,,Negative
+Q23,keyword,8,image_23101_0.png,1.086,0.027,Food#Neutral; Service#Negative; Public_area#Negative,,Negative
+Q23,keyword,9,image_576_0.png,1.0579,0.027,Room#Negative; Facilities#Neutral; Service#Neutral; Public_area#Neutral,,Negative
+Q23,keyword,10,image_22018_0.png,1.0533,0.027,Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Neutral,,Negative
+Q23,image-siglip-nolabels,1,image_3547_3.png,0.0981,0.048,Food#Neutral; Room#Neutral; Facilities#Neutral; Service#Negative; Public_area#Neutral,,Negative
+Q23,image-siglip-nolabels,2,image_5488_1.png,0.0945,0.048,Facilities#Negative; Service#Positive; Public_area#Positive,,Negative
+Q23,image-siglip-nolabels,3,image_31748_0.png,0.0943,0.048,Room#Neutral; Service#Positive,,Negative
+Q23,image-siglip-nolabels,4,image_2670_0.png,0.094,0.048,Food#Negative; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,,Negative
+Q23,image-siglip-nolabels,5,image_5623_0.png,0.0928,0.048,Location#Positive; Food#Neutral; Service#Positive; Public_area#Positive,,Negative
+Q23,image-siglip-nolabels,6,image_19248_0.png,0.0908,0.048,Room#Positive; Service#Positive; Public_area#Positive,,Negative
+Q23,image-siglip-nolabels,7,image_30639_0.png,0.0896,0.048,Service#Positive; Public_area#Negative,,Negative
+Q23,image-siglip-nolabels,8,image_24089_0.png,0.0894,0.048,Location#Negative; Food#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,,Negative
+Q23,image-siglip-nolabels,9,image_23186_2.png,0.089,0.048,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,,Negative
+Q23,image-siglip-nolabels,10,image_159_2.png,0.089,0.048,Location#Positive; Food#Neutral; Room#Positive; Service#Positive; Public_area#Positive,,Negative
+Q24,image-clip,1,image_10049_0.png,0.2575,0.036,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,
+Q24,image-clip,2,image_6306_3.png,0.2413,0.036,Location#Negative; Food#Positive; Facilities#Positive; Public_area#Positive,Facilities,
+Q24,image-clip,3,image_9287_1.png,0.2352,0.036,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Facilities,
+Q24,image-clip,4,image_3821_0.png,0.2346,0.036,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,
+Q24,image-clip,5,image_22402_0.png,0.2299,0.036,Location#Negative; Facilities#Positive; Public_area#Positive,Facilities,
+Q24,image-clip,6,image_27537_3.png,0.2266,0.036,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Facilities,
+Q24,image-clip,7,image_5747_1.png,0.2259,0.036,Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Neutral,Facilities,
+Q24,image-clip,8,image_10049_1.png,0.2254,0.036,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,
+Q24,image-clip,9,image_19347_1.png,0.2245,0.036,Room#Positive; Facilities#Positive; Service#Neutral; Public_area#Negative,Facilities,
+Q24,image-clip,10,image_22365_2.png,0.2239,0.036,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,
+Q24,image-siglip,1,image_8011_2.png,0.0215,0.063,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,image-siglip,2,image_26607_2.png,0.0208,0.063,Location#Positive; Room#Neutral; Facilities#Negative; Public_area#Positive,Facilities,
+Q24,image-siglip,3,image_2533_0.png,0.0185,0.063,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,image-siglip,4,image_22088_0.png,0.0175,0.063,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Facilities,
+Q24,image-siglip,5,image_22806_0.png,0.0161,0.063,Location#Positive; Food#Positive; Facilities#Neutral; Service#Positive; Public_area#Positive,Facilities,
+Q24,image-siglip,6,image_5772_0.png,0.0146,0.063,Facilities#Positive; Public_area#Positive,Facilities,
+Q24,image-siglip,7,image_27537_5.png,0.0129,0.063,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Facilities,
+Q24,image-siglip,8,image_27537_3.png,0.0123,0.063,Food#Positive; Room#Negative; Facilities#Neutral; Service#Positive; Public_area#Neutral,Facilities,
+Q24,image-siglip,9,image_6233_0.png,0.0118,0.063,Location#Positive; Room#Neutral; Facilities#Negative; Public_area#Neutral,Facilities,
+Q24,image-siglip,10,image_5765_3.png,0.011,0.063,Food#Positive; Room#Positive; Facilities#Positive; Public_area#Positive,Facilities,
+Q24,caption-clip,1,image_6382_1.png,0.696,0.036,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,caption-clip,2,image_22467_0.png,0.6829,0.036,Food#Positive; Room#Neutral; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,caption-clip,3,image_5488_0.png,0.6498,0.036,Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,
+Q24,caption-clip,4,image_7913_0.png,0.6254,0.036,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,
+Q24,caption-clip,5,image_7459_0.png,0.6248,0.036,Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,caption-clip,6,image_23186_1.png,0.6222,0.036,Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,caption-clip,7,image_2533_0.png,0.6176,0.036,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,caption-clip,8,image_31852_0.png,0.6165,0.036,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,caption-clip,9,image_22506_2.png,0.6143,0.036,Location#Positive; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,caption-clip,10,image_25839_0.png,0.6119,0.036,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive,Facilities,
+Q24,caption-siglip,1,image_7838_2.png,0.5716,0.066,Food#Neutral; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Facilities,
+Q24,caption-siglip,2,image_6382_2.png,0.4989,0.066,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,caption-siglip,3,image_2533_2.png,0.4976,0.066,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,caption-siglip,4,image_7913_0.png,0.4869,0.066,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,
+Q24,caption-siglip,5,image_19852_0.png,0.4847,0.066,Location#Neutral; Food#Positive; Room#Neutral; Facilities#Positive; Public_area#Neutral,Facilities,
+Q24,caption-siglip,6,image_22365_0.png,0.4415,0.066,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,
+Q24,caption-siglip,7,image_19051_0.png,0.4317,0.066,Food#Positive; Room#Positive; Facilities#Neutral; Public_area#Neutral,Facilities,
+Q24,caption-siglip,8,image_22214_0.png,0.3873,0.066,Facilities#Positive; Service#Positive; Public_area#Neutral,Facilities,
+Q24,caption-siglip,9,image_11350_1.png,0.3712,0.066,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Facilities,
+Q24,caption-siglip,10,image_7220_1.png,0.3681,0.066,Food#Negative; Facilities#Positive; Public_area#Neutral,Facilities,
+Q24,keyword,1,image_3821_0.png,0.0,0.037,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,
+Q24,keyword,2,image_10049_0.png,0.0,0.037,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,
+Q24,keyword,3,image_10049_1.png,0.0,0.037,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,
+Q24,keyword,4,image_10049_2.png,0.0,0.037,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,
+Q24,keyword,5,image_10049_3.png,0.0,0.037,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,
+Q24,keyword,6,image_7913_0.png,0.0,0.037,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,
+Q24,keyword,7,image_7913_1.png,0.0,0.037,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,
+Q24,keyword,8,image_7913_2.png,0.0,0.037,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,
+Q24,keyword,9,image_9287_0.png,0.0,0.037,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Facilities,
+Q24,keyword,10,image_9287_1.png,0.0,0.037,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Facilities,
+Q24,image-siglip-nolabels,1,image_21605_2.png,0.037,0.047,Room#Negative; Service#Negative; Public_area#Negative,Facilities,
+Q24,image-siglip-nolabels,2,image_20356_0.png,0.0354,0.047,Food#Neutral; Room#Negative; Service#Positive; Public_area#Positive,Facilities,
+Q24,image-siglip-nolabels,3,image_19_1.png,0.0245,0.047,Location#Negative; Food#Positive; Room#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,image-siglip-nolabels,4,image_1702_2.png,0.023,0.047,Location#Positive; Room#Negative; Service#Positive; Public_area#Positive,Facilities,
+Q24,image-siglip-nolabels,5,image_8011_2.png,0.0215,0.047,Food#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,image-siglip-nolabels,6,image_26607_2.png,0.0208,0.047,Location#Positive; Room#Neutral; Facilities#Negative; Public_area#Positive,Facilities,
+Q24,image-siglip-nolabels,7,image_2533_0.png,0.0185,0.047,Location#Negative; Room#Positive; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,
+Q24,image-siglip-nolabels,8,image_22088_0.png,0.0175,0.047,Food#Neutral; Room#Negative; Facilities#Neutral; Service#Negative; Public_area#Negative,Facilities,
+Q24,image-siglip-nolabels,9,image_4800_0.png,0.017,0.047,Room#Negative,Facilities,
+Q24,image-siglip-nolabels,10,image_26339_1.png,0.0166,0.047,Location#Positive; Public_area#Positive,Facilities,
+Q25,image-clip,1,image_10930_1.png,0.3039,0.026,Room#Negative; Facilities#Negative; Service#Negative,Facilities,Negative
+Q25,image-clip,2,image_24608_0.png,0.303,0.026,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,image-clip,3,image_1820_4.png,0.3008,0.026,Location#Positive; Food#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,image-clip,4,image_5488_1.png,0.2884,0.026,Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,image-clip,5,image_7913_0.png,0.2872,0.026,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,image-clip,6,image_7913_1.png,0.2857,0.026,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,image-clip,7,image_20374_3.png,0.2778,0.026,Food#Positive; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,image-clip,8,image_5747_0.png,0.2777,0.026,Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Neutral,Facilities,Negative
+Q25,image-clip,9,image_10049_0.png,0.2767,0.026,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,Negative
+Q25,image-clip,10,image_10049_2.png,0.2622,0.026,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,Negative
+Q25,image-siglip,1,image_24608_0.png,0.0796,0.053,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,image-siglip,2,image_1820_4.png,0.0668,0.053,Location#Positive; Food#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,image-siglip,3,image_11350_1.png,0.0626,0.053,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Facilities,Negative
+Q25,image-siglip,4,image_1376_1.png,0.0554,0.053,Room#Positive; Facilities#Negative; Service#Positive,Facilities,Negative
+Q25,image-siglip,5,image_20641_1.png,0.0543,0.053,Food#Negative; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,image-siglip,6,image_20374_3.png,0.0496,0.053,Food#Positive; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,image-siglip,7,image_6097_1.png,0.049,0.053,Food#Neutral; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Facilities,Negative
+Q25,image-siglip,8,image_20374_0.png,0.0465,0.053,Food#Positive; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,image-siglip,9,image_6233_0.png,0.0426,0.053,Location#Positive; Room#Neutral; Facilities#Negative; Public_area#Neutral,Facilities,Negative
+Q25,image-siglip,10,image_7913_1.png,0.0392,0.053,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,caption-clip,1,image_7913_0.png,0.745,0.026,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,caption-clip,2,image_25839_0.png,0.7095,0.026,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive,Facilities,Negative
+Q25,caption-clip,3,image_20302_1.png,0.6919,0.026,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Facilities,Negative
+Q25,caption-clip,4,image_5747_0.png,0.6753,0.026,Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Neutral,Facilities,Negative
+Q25,caption-clip,5,image_7843_0.png,0.6663,0.026,Room#Positive; Facilities#Negative; Service#Neutral; Public_area#Neutral,Facilities,Negative
+Q25,caption-clip,6,image_20302_0.png,0.659,0.026,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Neutral,Facilities,Negative
+Q25,caption-clip,7,image_24608_0.png,0.6527,0.026,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,caption-clip,8,image_7843_1.png,0.6478,0.026,Room#Positive; Facilities#Negative; Service#Neutral; Public_area#Neutral,Facilities,Negative
+Q25,caption-clip,9,image_1376_0.png,0.64,0.026,Room#Positive; Facilities#Negative; Service#Positive,Facilities,Negative
+Q25,caption-clip,10,image_10049_0.png,0.6345,0.026,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,Negative
+Q25,caption-siglip,1,image_7913_0.png,0.5665,0.053,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,caption-siglip,2,image_22365_0.png,0.4532,0.053,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,caption-siglip,3,image_11350_1.png,0.4266,0.053,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Facilities,Negative
+Q25,caption-siglip,4,image_6233_0.png,0.4022,0.053,Location#Positive; Room#Neutral; Facilities#Negative; Public_area#Neutral,Facilities,Negative
+Q25,caption-siglip,5,image_95_2.png,0.3908,0.053,Facilities#Negative; Service#Positive,Facilities,Negative
+Q25,caption-siglip,6,image_25839_0.png,0.3856,0.053,Food#Neutral; Room#Neutral; Facilities#Negative; Service#Positive,Facilities,Negative
+Q25,caption-siglip,7,image_10930_0.png,0.3841,0.053,Room#Negative; Facilities#Negative; Service#Negative,Facilities,Negative
+Q25,caption-siglip,8,image_1820_1.png,0.375,0.053,Location#Positive; Food#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,caption-siglip,9,image_10930_2.png,0.3747,0.053,Room#Negative; Facilities#Negative; Service#Negative,Facilities,Negative
+Q25,caption-siglip,10,image_24608_0.png,0.3663,0.053,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,keyword,1,image_7913_2.png,5.0865,0.014,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,keyword,2,image_3821_0.png,0.0,0.014,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,keyword,3,image_10049_0.png,0.0,0.014,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,Negative
+Q25,keyword,4,image_10049_1.png,0.0,0.014,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,Negative
+Q25,keyword,5,image_10049_2.png,0.0,0.014,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,Negative
+Q25,keyword,6,image_10049_3.png,0.0,0.014,Room#Negative; Facilities#Negative; Service#Positive; Public_area#Negative,Facilities,Negative
+Q25,keyword,7,image_7913_0.png,0.0,0.014,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,keyword,8,image_7913_1.png,0.0,0.014,Room#Positive; Facilities#Negative; Public_area#Positive,Facilities,Negative
+Q25,keyword,9,image_9287_0.png,0.0,0.014,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Facilities,Negative
+Q25,keyword,10,image_9287_1.png,0.0,0.014,Room#Negative; Facilities#Negative; Service#Negative; Public_area#Neutral,Facilities,Negative
+Q25,image-siglip-nolabels,1,image_24608_0.png,0.0796,0.048,Location#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,image-siglip-nolabels,2,image_31852_0.png,0.0793,0.048,Location#Positive; Room#Negative; Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,image-siglip-nolabels,3,image_23308_0.png,0.0754,0.048,Food#Negative; Room#Positive; Public_area#Positive,Facilities,Negative
+Q25,image-siglip-nolabels,4,image_1820_4.png,0.0668,0.048,Location#Positive; Food#Positive; Room#Positive; Facilities#Negative; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,image-siglip-nolabels,5,image_2670_1.png,0.0661,0.048,Food#Negative; Room#Positive; Facilities#Neutral; Service#Positive; Public_area#Neutral,Facilities,Negative
+Q25,image-siglip-nolabels,6,image_7459_1.png,0.0629,0.048,Facilities#Positive; Service#Positive; Public_area#Positive,Facilities,Negative
+Q25,image-siglip-nolabels,7,image_11350_1.png,0.0626,0.048,Food#Negative; Room#Neutral; Facilities#Negative; Service#Negative; Public_area#Negative,Facilities,Negative
+Q25,image-siglip-nolabels,8,image_564_0.png,0.0624,0.048,Room#Positive; Service#Positive; Public_area#Neutral,Facilities,Negative
+Q25,image-siglip-nolabels,9,image_25606_0.png,0.0622,0.048,Location#Positive; Room#Positive; Service#Positive,Facilities,Negative
+Q25,image-siglip-nolabels,10,image_29451_0.png,0.062,0.048,Location#Positive; Service#Positive; Public_area#Neutral,Facilities,Negative

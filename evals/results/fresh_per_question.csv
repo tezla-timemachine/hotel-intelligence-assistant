@@ -1,0 +1,11 @@
+qid,run,group,p_at_5,p_at_10,first_ok,n_returned,label_acc_5,seconds
+F01,image-siglip,visual,1.0,0.7,True,10,,1.145
+F02,image-siglip,visual,0.6,0.3,True,10,,0.115
+F03,image-siglip,visual,0.6,0.5,True,10,,0.079
+F04,image-siglip,detail,0.8,0.6,True,10,1.0,0.217
+F05,image-siglip,detail,1.0,1.0,True,10,1.0,0.108
+F06,image-siglip,visual,0.2,0.1,True,10,,0.96
+F07,image-siglip,visual,0.8,0.7,True,10,,0.665
+F08,image-siglip,detail,1.0,0.9,True,10,1.0,0.15
+F09,image-siglip,visual,0.2,0.2,False,10,,0.09
+F10,image-siglip,edge,1.0,0.8,True,10,1.0,0.075
