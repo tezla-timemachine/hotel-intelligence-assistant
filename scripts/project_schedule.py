@@ -33,7 +33,7 @@ TASKS = [
     ("T10", "6 App", "Failure analysis", "2026-11-24", "2026-11-24", "Done", "T09", "Step 9"),
     ("T11", "6 App", "Streamlit app; UAT (08); privacy note; risks signed off", "2026-11-24", "2026-11-24", "Done", "T07", "Step 10; 06, 08; H"),
     ("T12", "7 Write up", "Fresh test questions; case study (09); limitations", "2026-11-24", "2026-11-24", "Done", "T10 T11", "09"),
-    ("T13", "7 Write up", "README, HANDOVER, annotated brief; GitHub", "2026-11-24", "2026-11-25", "In progress", "T12", "Deliverables"),
+    ("T13", "7 Write up", "README, HANDOVER, annotated brief; GitHub", "2026-11-24", "2026-11-24", "Done", "T12", "Deliverables"),
 ]
 
 

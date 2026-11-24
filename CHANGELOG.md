@@ -3,6 +3,7 @@
 ## [0.7.0] — 2026-11-24 — Write-up
 - Fresh test on 10 unseen questions: P@5 0.72, first result 90%, answers 95.7% backed (D20).
 - Case study (09), limitations, README, HANDOVER.
+- The annotated brief: "What we did" under every point of the brief.
 
 ## [0.6.0] — 2026-11-24 — App, failure analysis, UAT
 - Failure analysis of all 36 wrong top-5 results, by the brief's five causes.

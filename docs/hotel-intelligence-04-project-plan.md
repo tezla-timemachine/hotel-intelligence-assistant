@@ -25,7 +25,7 @@
 | **4. Search and answer** | 5, 6 | Plain-English search with scores; labels used where asked (Decision I); search by image; grounded answers (Decision F); evaluation plan (07) written **before** testing | **Done** (D12 to D14) |
 | **5. Measure and compare** | 7, 8 | 20–30 test questions with Tez's judgements; P@5, P@10, retrieval accuracy, time, incorrect retrievals; caption against CLIP against SigLIP | **Done** (D15 to D17) |
 | **6. Failures and the app** | 9, 10 | Failure analysis; Streamlit app; UAT workbook (08); privacy note; risk register signed off | **Done** (D18, D19) |
-| **7. Write it up** | Deliverables | **Fresh test questions** run once; case study (09); limitations; README, CHANGELOG, HANDOVER; annotated brief; GitHub | In progress: fresh test, case study, limitations, README, CHANGELOG and HANDOVER done (D20) |
+| **7. Write it up** | Deliverables | **Fresh test questions** run once; case study (09); limitations; README, CHANGELOG, HANDOVER; annotated brief; GitHub | **Done** (D20, D21) |
 
 ## 3. Gantt chart
 

@@ -2,7 +2,7 @@
 
 Week 7 project: a prototype that lets a hotel manager search guest photos and reviews together in plain English. It returns the matching photos with their reviews and match scores, and, on request, a short answer written **only from that evidence**, with every point cited. **A tested prototype and a starting point, not a system for real guest data.**
 
-**Start here:** the case study, [`docs/hotel-intelligence-09-product-case-study.md`](docs/hotel-intelligence-09-product-case-study.md). Then the plan and brief tracker, [`docs/week7-plan.md`](docs/week7-plan.md), which goes through every point of the brief.
+**Start here:** the case study, [`docs/hotel-intelligence-09-product-case-study.md`](docs/hotel-intelligence-09-product-case-study.md). Then the annotated brief, [`docs/week7-brief-what-we-did.docx`](docs/week7-brief-what-we-did.docx), which says what we did under every point of the brief.
 
 ## Results in brief
 
