@@ -85,8 +85,9 @@
 | D18 | 24 Nov 2026 | **Business UAT passed: 12 of 12** (Tez, in the app). System and AI tests: 20 pass, 2 partly (grounding, judge check), 1 fail (first result, accepted D15), 1 not run (fresh questions, Phase 7). 11 defects: 6 fixed, 2 accepted, 3 open | The app does what the brief's Step 10 asks; two defects found in UAT were fixed the same day (DF-10 speed, DF-11 wording) | Product Owner (Tez), "all passed", 24 Nov 2026 |
 | D19 | 24 Nov 2026 | **Phase 6 closed:** failure analysis, app, privacy note, UAT (D18) and the risk register signed off. Fresh test approved: the chosen approach only (image search, SigLIP, labels), judged by the same judge (Sonnet 5.5) for a fair comparison, answers by Sonnet 5.5; about $0.45 | The fresh questions are the check that the choices weren't tuned too closely to the test questions (D5) | Product Owner (Tez), "Yes, run it", 24 Nov 2026 |
 | D20 | 24 Nov 2026 | **Fresh test passed:** P@5 0.72 against 0.81 on the test questions (mark: within 0.10); first result 90%; Sonnet answers 95.7% backed (mark 95%). Grounding mark now met; the 87.8% applied to Opus answers | Results reported as measured (`evals/results/20261124_fresh_test.md`); the weak spots match the failure analysis | Delivery Lead (Claude), from the approved test (D19) |
+| D21 | 24 Nov 2026 | **Decision H, GitHub:** public repository https://github.com/tezla-timemachine/hotel-intelligence-assistant: code, prompts, app, documents, questions and summary results. Not published: photos, reviews, translations, descriptions, the database, the models and row-level outputs that quote reviews or describe photos | Mentors can open it, as in Weeks 4 and 5; the dataset is research use only | Product Owner (Tez), "Yes, push", 24 Nov 2026 |
 
-**Open decisions:** none for the build. GitHub (Decision H) in Phase 7. (answer model), G (test questions and relevance), H (app and GitHub), I (how search uses the labels, Phase 4). See the plan, section 4.
+**Open decisions:** none. (answer model), G (test questions and relevance), H (app and GitHub), I (how search uses the labels, Phase 4). See the plan, section 4.
 
 ---
 

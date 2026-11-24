@@ -74,7 +74,7 @@
 | E | Which vector database | Phase 3 | **Decided (D10):** Chroma 1.5.9, on this Mac |
 | F | Which model writes the answers | Phase 4 | **Decided (D13), changed (D16):** Claude Sonnet 5.5 with the photos, about $0.013 a question; Opus 5.5 until 24 Nov |
 | G | The test questions and what counts as relevant | Phase 4 | **Decided (D14):** 25 test questions and 10 fresh ones kept back; relevance judged by Claude Sonnet against written rules, checked against the dataset's image labels (Tez optionally judges 40) |
-| H | App and GitHub | Phase 6–7 | **App decided:** Streamlit on this computer, http://localhost:8507; UAT 12 of 12 (D18). GitHub: Phase 7 |
+| H | App and GitHub | Phase 6–7 | **Decided:** Streamlit on this computer, http://localhost:8507; UAT 12 of 12 (D18). Public repository, without the dataset or row-level outputs (D21) |
 
 **Budget:** under **$10** of Claude usage for the whole project, as in Week 5. Rough estimate: image descriptions $2.50–5, translation about $1, answers and testing $2–3.
 
@@ -232,7 +232,7 @@ Every document gets a Word copy, and all of them are checked against each other 
 | Image understanding pipeline; embeddings; vector database | `scripts/` and the Chroma folder | **Done** |
 | Search; RAG; app | `app/` (Streamlit) | **Done:** `scripts/search.py`, `scripts/answer.py`, `app/app.py` |
 | Evaluation questions; retrieval evaluation; comparison; failure analysis | `evals/` and the evaluation documents | **Done:** 25 test and 10 fresh questions; evaluation, comparison, failure analysis and fresh test in `evals/results/` |
-| GitHub repository | A clear README, as in Weeks 4 and 5 | Not started |
+| GitHub repository | A clear README, as in Weeks 4 and 5 | **Done:** https://github.com/tezla-timemachine/hotel-intelligence-assistant (public, D21) |
 
 ---
 
