@@ -16,7 +16,7 @@ A Week 7 prototype. Guest photos and reviews from ViMACSA are embedded with SigL
 `scripts/search.py` (read the question → label filter → Chroma similarity → log) → `scripts/answer.py` (evidence E1–E6 → cited answer → log) → `app/app.py`. Embeddings: `scripts/embeddings.py`; database build: `scripts/build_index.py`. Every model call: `data/results/call_log.csv` (model asked for and used, D6). Every search: `data/results/search_log.csv`.
 
 ## 5. Running it
-See README. App: `.venv/bin/streamlit run app/app.py --server.port 8507`. Search is free and local; an answer sends the 6 shown photos and reviews to Anthropic (about 1 cent).
+See README. App: `.venv/bin/streamlit run app/app.py --server.port 8507`. Search is free and local; an answer sends the 6 shown photos and reviews to Anthropic (about 1 cent). For demos: `VIEW_ONLY=1` in front of the same command hides the answer button, so there's no API cost (D22).
 
 ## 6. Conventions
 - **Cheapest suitable model first** (D16): Haiku for simple high-volume text, Sonnet for descriptions, answers and judging; a dearer model only after a small test shows it's needed, and with the Product Owner's yes.

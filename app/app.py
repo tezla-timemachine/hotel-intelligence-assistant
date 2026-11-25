@@ -1,6 +1,7 @@
 """Hotel intelligence assistant: search guest photos and reviews in plain English (Step 10). Runs on this computer.
 
     .venv/bin/streamlit run app/app.py --server.port 8507
+    VIEW_ONLY=1 .venv/bin/streamlit run app/app.py --server.port 8507    # for demos: no API calls (D22)
 
 Ask a question → the app reads it (topic, sentiment, what to look for) → shows the matching photos with their
 reviews and match scores → on request, Claude Sonnet 5.5 writes a short answer from that evidence only (D16).
@@ -34,6 +35,8 @@ EXAMPLES = ["Show room images associated with negative feedback.", "Find hotel f
 APPROACHES = {"Photo search, SigLIP (recommended)": ("image", "siglip"), "Photo search, CLIP": ("image", "clip"),
               "Caption search, SigLIP": ("caption", "siglip"), "Keyword search on descriptions": ("keyword", "siglip")}
 TOPIC_NAMES = {"Public_area": "Public area"}
+# View-only mode for demos (D22): search works as usual, but the paid answer button is hidden, so no API calls.
+VIEW_ONLY = os.environ.get("VIEW_ONLY", "").strip().lower() in {"1", "true", "yes"}
 SENTIMENT_COLOURS = {"Positive": "#2e7d32", "Neutral": "#6b7280", "Negative": "#c62828"}
 
 st.set_page_config(page_title="Hotel intelligence assistant", page_icon="🏨", layout="wide")
@@ -96,6 +99,9 @@ with st.sidebar:
     use_labels = st.checkbox("Use the reviews' topic and sentiment labels", value=True,
                              help="Photos can't show how a guest felt, so 'negative' and 'positive' come from the review's own label.")
     st.divider()
+    if VIEW_ONLY:
+        st.info("**View-only mode.** Search runs on this computer and is free. Written answers are switched off, "
+                "so there are no calls to Claude and no API cost.")
     st.caption("About the match score: it compares the question with each photo. Scores differ between methods, "
                "so the app shows each one as a share of the best match in this search.")
 
@@ -133,7 +139,7 @@ elif question:
             key = (question, approach_name, k, use_labels)
             if st.session_state.get("answer_for") != key:
                 st.session_state.pop("answer", None)
-            if st.button(f"✍️ Write a short answer from these photos and reviews (about 1 cent, {ANSWER_MODEL})"):
+            if not VIEW_ONLY and st.button(f"✍️ Write a short answer from these photos and reviews (about 1 cent, {ANSWER_MODEL})"):
                 load_dotenv(ROOT / ".env")
                 with st.spinner("Claude is reading the evidence…"):
                     st.session_state.answer = answer(anthropic.Anthropic(), question, hits)

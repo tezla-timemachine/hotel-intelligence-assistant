@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.7.1] — 2026-11-25 — View-only mode
+- `VIEW_ONLY=1` starts the app for demos: search as usual, the answer button hidden, no calls to Claude (D22, CR-06).
+
 ## [0.7.0] — 2026-11-24 — Write-up
 - Fresh test on 10 unseen questions: P@5 0.72, first result 90%, answers 95.7% backed (D20).
 - Case study (09), limitations, README, HANDOVER.

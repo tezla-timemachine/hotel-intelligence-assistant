@@ -24,7 +24,7 @@ Week 7 project: a prototype that lets a hotel manager search guest photos and re
 |---|---|
 | [01 Product / business brief](docs/hotel-intelligence-01-product-business-brief.md) | Problem, product story, value in money, scope, assumptions |
 | [02 Business requirements](docs/hotel-intelligence-02-business-requirements-document.md) | FR-01 to FR-18, AI quality and non-functional requirements |
-| [03 Architecture and decision log](docs/hotel-intelligence-03-ai-architecture-and-decision-log.md) | Components, one database record, decisions D1–D20 |
+| [03 Architecture and decision log](docs/hotel-intelligence-03-ai-architecture-and-decision-log.md) | Components, one database record, decisions D1–D22 |
 | [04 Project plan](docs/hotel-intelligence-04-project-plan.md) and [05 schedule](docs/hotel-intelligence-05-project-schedule.csv) | Phases, milestones, Gantt chart |
 | [06 Risk register](docs/hotel-intelligence-06-risk-register.md) | 14 risks with evidence |
 | [07 Evaluation plan](docs/hotel-intelligence-07-evaluation-plan.md) | Questions, relevance rules, measures, pass marks, written before testing |
@@ -58,6 +58,11 @@ cp .env.example .env    # then paste your own Anthropic API key after the = sign
   ```
 
   Then open http://localhost:8507. Search is free; each answer costs about 1 cent.
+- **For a demo with no API cost,** start it in view-only mode. Search works as usual, and the answer button is hidden (D22):
+
+  ```bash
+  VIEW_ONLY=1 .venv/bin/streamlit run app/app.py --server.port 8507
+  ```
 
 ## Layout
 
