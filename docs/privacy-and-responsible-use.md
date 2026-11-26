@@ -1,4 +1,4 @@
-# Week 7 privacy and responsible use
+# Privacy and responsible use
 
 **Status:** 24 Nov 2026. How the prototype treats guests' reviews and photos, what leaves this computer, and what a real hotel group would need to approve. **A prototype on a research dataset: not cleared for real guest data.**
 

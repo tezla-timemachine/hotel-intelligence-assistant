@@ -29,7 +29,7 @@
 
 ## 3. Gantt chart
 
-![Week 7 Gantt chart](hotel-intelligence-05-gantt-chart.png)
+![Gantt chart](hotel-intelligence-05-gantt-chart.png)
 
 ## 4. Task schedule
 

@@ -16,7 +16,7 @@
 | Do the labels help? | Share of results whose review carries the asked-for sentiment, with and without the label filter | 8 |
 | Do answers stay within the evidence? | Share of answer points supported by the items they cite | 6 |
 | Does the answer admit when there's nothing to find? | "Not enough evidence" on questions with no relevant photos | 6 |
-| Does it hold up on questions it has never seen? | The same measures on the fresh questions | Week 4 lesson |
+| Does it hold up on questions it has never seen? | The same measures on the fresh questions | Lesson from the revenue forecasting project |
 
 ## 2. The test questions
 
@@ -86,7 +86,7 @@ Set now, before testing. They apply to the approach chosen for the product.
 | Honest gaps | **2 of 2** | Q24, Q25 |
 | Fresh questions | P@5 no more than **0.10 below** the test questions | F01–F10, Phase 7 |
 
-**If a mark is missed:** it's reported as missed, with the reason, and the Product Owner decides whether to change something (through the change log) or accept it, as in Week 5.
+**If a mark is missed:** it's reported as missed, with the reason, and the Product Owner decides whether to change something (through the change log) or accept it, as in the casino floor project.
 
 ## 7. Budget
 

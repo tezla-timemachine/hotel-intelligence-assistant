@@ -1,7 +1,7 @@
 # Business Requirements Document: Multimodal Hotel Intelligence Assistant (prototype)
 
 > **Status:** v1.0, approved by the Product Owner, 23 Nov 2026 (D7). Changes after approval go through the change control log (10).
-> Sources: product brief (01), dataset fact sheet (`docs/week7-dataset.md`), the Week 7 brief.
+> Sources: product brief (01), dataset fact sheet (`docs/dataset.md`), the project brief.
 > AI quality targets are set in the evaluation plan (07) **before** testing, then copied here in v1.1, so the two always match.
 
 ---

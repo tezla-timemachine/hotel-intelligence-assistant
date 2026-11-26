@@ -1,4 +1,4 @@
-"""Draws the two diagrams in docs/week7-plan.md: how the system works, and the build order.
+"""Draws the two diagrams in docs/plan.md: how the system works, and the build order.
 
     python scripts/plan_diagrams.py
 """

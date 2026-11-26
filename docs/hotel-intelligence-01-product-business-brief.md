@@ -1,7 +1,7 @@
 # Product / Business Brief: Multimodal Hotel Intelligence Assistant
 
 > **Status:** v1.0, approved by the Product Owner, 23 Nov 2026 (D7). Statements marked *(assumption)* are placeholders, to confirm with a real hotel group before any deployment.
-> Sources: the Week 7 brief (`docs/week7-brief.md`), the dataset fact sheet (`docs/week7-dataset.md`), the plan (`docs/week7-plan.md`).
+> Sources: the project brief (`docs/brief.md`), the dataset fact sheet (`docs/dataset.md`), the plan (`docs/plan.md`).
 
 ---
 
@@ -131,7 +131,7 @@ Prepared once: an **English translation** of each review (done) and a **short de
 
 ## 10. Stakeholders and decision rights
 
-Roles are titles only. In this course project, Tez holds the Product Owner and Delivery Lead roles.
+Roles are titles only. In this project, Tez holds the Product Owner and Delivery Lead roles.
 
 | Stakeholder | Interest | Decides |
 |---|---|---|

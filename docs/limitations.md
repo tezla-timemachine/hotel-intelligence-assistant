@@ -1,4 +1,4 @@
-# Week 7 limitations
+# Limitations
 
 **Status:** 24 Nov 2026. What this prototype can't show, and why. **A tested prototype and a starting point, not a system ready for a hotel group's real data.**
 

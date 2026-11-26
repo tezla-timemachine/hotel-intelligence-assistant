@@ -1,8 +1,8 @@
 # Multimodal hotel intelligence assistant
 
-Week 7 project: a prototype that lets a hotel manager search guest photos and reviews together in plain English. It returns the matching photos with their reviews and match scores, and, on request, a short answer written **only from that evidence**, with every point cited. **A tested prototype and a starting point, not a system for real guest data.**
+A prototype that lets a hotel manager search guest photos and reviews together in plain English. It returns the matching photos with their reviews and match scores, and, on request, a short answer written **only from that evidence**, with every point cited. **A tested prototype and a starting point, not a system for real guest data.**
 
-**Start here:** the case study, [`docs/hotel-intelligence-09-product-case-study.md`](docs/hotel-intelligence-09-product-case-study.md). Then the annotated brief, [`docs/week7-brief-what-we-did.docx`](docs/week7-brief-what-we-did.docx), which says what we did under every point of the brief.
+**Start here:** the case study, [`docs/hotel-intelligence-09-product-case-study.md`](docs/hotel-intelligence-09-product-case-study.md). Then the annotated brief, [`docs/brief-what-we-did.docx`](docs/brief-what-we-did.docx), which says what we did under every point of the brief.
 
 ## Results in brief
 
@@ -31,8 +31,8 @@ Week 7 project: a prototype that lets a hotel manager search guest photos and re
 | [08 UAT workbook](docs/hotel-intelligence-08-user-acceptance-testing.xlsx) | Business and system tests, defects |
 | [09 Case study](docs/hotel-intelligence-09-product-case-study.md) | The whole story |
 | [10 Change control log](docs/hotel-intelligence-10-change-control-log.md) | Every change to models, prompts, rules and data |
-| [Dataset fact sheet](docs/week7-dataset.md) | What the source holds, the selection, and source vs generated fields |
-| [Privacy](docs/week7-privacy-and-responsible-use.md) and [limitations](docs/week7-limitations.md) | Responsible use; what the prototype can't show |
+| [Dataset fact sheet](docs/dataset.md) | What the source holds, the selection, and source vs generated fields |
+| [Privacy](docs/privacy-and-responsible-use.md) and [limitations](docs/limitations.md) | Responsible use; what the prototype can't show |
 | [Experiment log](evals/experiment-log.md) | Every model, prompt and setting tried, with cost and result |
 | [Search evaluation](evals/results/20261124_search_evaluation.md), [failure analysis](evals/results/20261124_failure_analysis.md), [fresh test](evals/results/20261124_fresh_test.md) | Steps 7–9 |
 

@@ -1,6 +1,6 @@
 # Case Study: Multimodal Hotel Intelligence Assistant
 
-**Week 7, 23–24 November 2026.** A prototype that lets a hotel manager search guest photos and reviews together in plain English, and get an answer built only from the evidence. Built and evaluated as an AI product, one phase at a time. Tez was Product Owner and Delivery Lead, with Claude building the system and drafting the documents.
+**23–24 November 2026.** A prototype that lets a hotel manager search guest photos and reviews together in plain English, and get an answer built only from the evidence. Built and evaluated as an AI product, one phase at a time. Tez was Product Owner and Delivery Lead, with Claude building the system and drafting the documents.
 
 ---
 

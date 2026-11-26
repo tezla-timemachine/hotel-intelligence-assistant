@@ -1,6 +1,6 @@
 """Build the Word copy of a Markdown document: landscape A4, Arial, bordered tables with a shaded header row.
 
-    python3 scripts/build_word.py docs/week4-brief-traceability.md
+    python3 scripts/build_word.py docs/plan.md
 
 Writes the .docx next to the .md. Needs pandoc. The Markdown file stays the master copy.
 """

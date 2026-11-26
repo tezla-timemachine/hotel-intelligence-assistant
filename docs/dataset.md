@@ -1,4 +1,4 @@
-# Week 7 dataset fact sheet (Step 1)
+# Dataset fact sheet (Step 1)
 
 **What this is:** the dataset exactly as it is, checked before building anything. It records what the source gives us, what we generate or calculate ourselves, and what isn't there, as the brief asks.
 

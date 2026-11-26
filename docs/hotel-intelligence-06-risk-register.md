@@ -35,7 +35,7 @@
 
 - **R-03, the image–review mismatch,** is the one risk already proven in the data. If the product ignores it, a manager would show a photo of a pool next to a complaint about a room. It shapes how search works (Decision I) and what the failure analysis looks for.
 - **R-04 and R-05:** embeddings are strong at "what it looks like" and weak at "how the guest felt". That's why sentiment should come from the source labels.
-- **R-08:** a small test set can make the results look better than they are. The fresh question set is the protection, learned from the Week 4 feedback.
+- **R-08:** a small test set can make the results look better than they are. The fresh question set is the protection, learned from reviewer feedback on the revenue forecasting project.
 
 ## 4. Review log
 

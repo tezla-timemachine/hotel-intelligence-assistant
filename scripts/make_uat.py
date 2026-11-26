@@ -1,4 +1,4 @@
-"""Build the UAT workbook (document 08), same layout as Weeks 1 and 5: Overview, Business UAT, System & AI tests,
+"""Build the UAT workbook (document 08), same layout as earlier projects: Overview, Business UAT, System & AI tests,
 Summary, Defects.
 
     python scripts/make_uat.py
@@ -125,7 +125,7 @@ def main():
     wb = Workbook()
     ov = wb.active; ov.title = "Overview"
     lines = [("Multimodal Hotel Intelligence Assistant: Testing and User Acceptance (document 08)", True), ("", False),
-             ("What is tested: the prototype built in Week 7, against the business requirements (02) and the evaluation plan (07).", False),
+             ("What is tested: the prototype, against the business requirements (02) and the evaluation plan (07).", False),
              ("Business UAT: Tez, as the quality manager, runs each test in the app (http://localhost:8507) and fills in Actual result, Status and Date. Two tests ask for an answer, about 1 cent each.", False),
              ("System & AI tests: run by Claude (delivery) with evidence from the evaluation (evals/experiment-log.md, evals/results/); signed off by Tez.", False),
              ("Status values: Pass, Fail, Partly, Pending, Not run. Failures and partial passes are logged on the Defects sheet.", False),

@@ -1,4 +1,4 @@
-# Week 7 – Multimodal Hotel Intelligence Assistant: the brief, with what we did
+# Multimodal Hotel Intelligence Assistant: the brief, with what we did
 
 > **How to read this document.** The brief's own text is unchanged, in normal type. Under each point, a box says **what we did**, how, and the result, as of 24 November 2026. Numbers such as D12 are decisions in the decision log (document 03), CR-04 a change in the change log (10), F01 and Q09 test questions, R-03 a risk (06).
 >
@@ -84,7 +84,7 @@ Keep the connection between every image and its related review.
 
 Review what information is actually available before creating the final dataset.
 
-> **What we did:** the **dataset fact sheet** (`docs/week7-dataset.md`): files, fields, labels, language, counts and problems found. **Key finding:** of 101 photos from reviews complaining about the room, only **52 show a room**. The product had to join what photos show with what reviews say (R-03).
+> **What we did:** the **dataset fact sheet** (`docs/dataset.md`): files, fields, labels, language, counts and problems found. **Key finding:** of 101 photos from reviews complaining about the room, only **52 show a room**. The product had to join what photos show with what reviews say (R-03).
 
 Do not create fields that are not present in the source unless you clearly mark them as generated information.
 
@@ -260,7 +260,7 @@ The main experience should be simple: User asks a question; System searches imag
 
 ## Main Learning Outcome
 
-At the end of Week 7, you should understand how text and images can be used together inside one AI product. You should understand: Vision Language Models; Multimodal embeddings; Text to image retrieval; Image to text understanding; Semantic visual search; Multimodal RAG.
+By the end of the project, you should understand how text and images can be used together inside one AI product. You should understand: Vision Language Models; Multimodal embeddings; Text to image retrieval; Image to text understanding; Semantic visual search; Multimodal RAG.
 
 > **What we did:**
 >

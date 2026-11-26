@@ -1,7 +1,7 @@
 # Project Handover: Multimodal Hotel Intelligence Assistant
 
 ## 1. What this is
-A Week 7 prototype. Guest photos and reviews from ViMACSA are embedded with SigLIP and CLIP into a Chroma database on this computer. A question is read by rules into a topic, a sentiment and what to look for; photos are filtered by the review labels and ranked by similarity; Claude Sonnet 5.5 answers from the shown evidence on request. Story: case study (09). Every brief point: `docs/week7-plan.md`.
+A prototype. Guest photos and reviews from ViMACSA are embedded with SigLIP and CLIP into a Chroma database on this computer. A question is read by rules into a topic, a sentiment and what to look for; photos are filtered by the review labels and ranked by similarity; Claude Sonnet 5.5 answers from the shown evidence on request. Story: case study (09). Every brief point: `docs/plan.md`.
 
 ## 2. Data
 - ViMACSA (research use only): 501 photos and 267 reviews in `data/selected/` (not in Git). Download record and SHA-256: `data/raw/MANIFEST.md`. The zip itself was deleted to save disk space.
@@ -32,4 +32,3 @@ See README. App: `.venv/bin/streamlit run app/app.py --server.port 8507`. Search
 | Broad questions: count complaints from the labels first | Failure analysis |
 | Agree with users whether a sitting area counts as "a room" | DF-02 |
 | Re-run translation with Haiku and descriptions with Sonnet if the data is rebuilt | D16 |
-| Remove Moondream and Ollama from Week 5 (about 1.6 GB) if disk space is needed | Week 5 handover |

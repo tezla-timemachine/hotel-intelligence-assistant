@@ -1,4 +1,4 @@
-# Week 7 – Multimodal Hotel Intelligence Assistant (the course brief, as given)
+# Multimodal Hotel Intelligence Assistant (the project brief, as given)
 
 *Copied from the brief pasted into the chat on 23 Nov 2026. The text is unchanged; only headings and list formatting were added.*
 
@@ -160,7 +160,7 @@ The main experience should be simple:
 - GitHub repository
 
 ## Main Learning Outcome
-At the end of Week 7, you should understand how text and images can be used together inside one AI product.
+By the end of the project, you should understand how text and images can be used together inside one AI product.
 You should understand:
 - Vision Language Models
 - Multimodal embeddings

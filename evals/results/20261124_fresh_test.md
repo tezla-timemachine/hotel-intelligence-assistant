@@ -1,6 +1,6 @@
 # Fresh test: 10 questions never used before (Phase 7)
 
-**Why:** the 25 test questions were used to fix the question rules (CR-04) and to choose the approach, so they're no longer a fully fair test. These 10 questions (`evals/fresh_questions.csv`) were written on 23 Nov, at the same time as the 25, and kept back until now: no rule, prompt or setting was tuned on them. This is the Week 4 lesson: check on data the project hasn't touched.
+**Why:** the 25 test questions were used to fix the question rules (CR-04) and to choose the approach, so they're no longer a fully fair test. These 10 questions (`evals/fresh_questions.csv`) were written on 23 Nov, at the same time as the 25, and kept back until now: no rule, prompt or setting was tuned on them. This is a lesson from the revenue forecasting project: check on data the project hasn't touched.
 
 **What ran (D19):** the chosen approach only, image search with SigLIP and the review labels, top 10. The same judge as the test set (Claude Sonnet 5.5, prompt j1) for a fair comparison; answers by Claude Sonnet 5.5 (D16), with their points checked by prompt g1. Cost **$0.49** (judge $0.22, answers $0.13, checks $0.14).
 

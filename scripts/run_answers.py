@@ -48,7 +48,7 @@ def do_answer(which: str):
         out.append(r)
         a = r["answer"]
         print(f"{q.qid} {r['status']} {r['seconds']} s ${r['cost_usd']} enough={a['enough_evidence'] if a else None} points={len(a['points']) if a else 0}", flush=True)
-        if "credit balance" in r["status"]:   # no point trying the rest: the account needs topping up (Week 5 lesson, DF-06)
+        if "credit balance" in r["status"]:   # no point trying the rest: the account needs topping up (a lesson from the casino floor project, DF-06)
             print("!! stopped: the Anthropic account is out of credit"); return
     (RESULTS / f"{which}_answers.json").write_text(json.dumps(out, ensure_ascii=False, indent=1))
 
